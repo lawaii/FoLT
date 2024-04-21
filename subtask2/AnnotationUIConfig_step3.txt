@@ -1,0 +1,74 @@
+<View>
+  <header value="Question"/>
+  <Text name="question" value="$question"/>
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+    <Header value="Step 1: Choose Question Type"/>
+    <Choices name="question_type" toName="question" choice="single" showInLine="true" required="true">
+      <Choice value="1. Yes/no question"/>
+      <Choice value="2. Open ended - Comparison of different specific interventions"/>
+      <Choice value="3. Open ended - Specific effect of a specific intervention"/>
+      <Choice value="4. Open ended - General effects of a specific intervention"/>
+      <Choice value="5. Open ended - Comparison of different nonspecific interventions"/>
+      <Choice value="6. Open ended - Other"/>
+    </Choices>
+  </View>
+
+
+<!--  <header value="Gold Answer"/> -->
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+  <HyperText clickableLinks="true" name="doi" inline="true" target="_blank" value="">
+      <h2><a target="_blank" href="https://www.cochranelibrary.com/cca/doi/$doi">Gold Answer from CCAs</a></h2>
+  </HyperText>
+  <Text name="refAnswer" value="$gold_answer"/>
+  </View>
+
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+   <Header value="Step 2: Evaluate the output from an LLM "/>
+  <Text name="llm_answer_eval_1" value="$llm_answer"/>
+
+ <Header value="Is the above text a valid answer to the question?"/>
+  <Choices name="llm_answer_label_1" toName="llm_answer_eval_1" choice="single" showInLine="true">
+      <Choice value="Valid"/>
+      <Choice value="Invalid"/>
+    </Choices>
+ </View>
+
+<View visibleWhen="choice-selected" whenTagName="llm_answer_label_1" whenChoiceValue="Valid" style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px; display: flex;">
+<Header value="Step3: Annotate each sentence of the above LLM output for the question: $question"/>
+</View>
+
+<style>
+  .center-text {
+    text-align: center;
+  }
+</style>
+
+
+<View visibleWhen="choice-selected" whenTagName="llm_answer_label_1" whenChoiceValue="Valid" style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px; display: flex;">
+  <View style="width: 50%; padding-left: 0.5em; margin-right: 0.5em; background: #f1f1f1; border-radius: 1px">
+   <HyperText clickableLinks="true" name="doi_1" inline="true" target="_blank" value="">
+      <h4 class="center-text"><a target="_blank" href="https://www.cochranelibrary.com/cca/doi/$doi">Gold Answer from CCAs</a></h4>
+  </HyperText>
+  <Text name="refAnswer_1" value="$gold_answer"/>
+  </View>
+  <View style="width: 50%">
+  <Labels name="llm_answer_fine_grain_label" toName="llm_answer_eval_2">
+    <Label value="Contradiction" background="red"/>
+    <Label value="Exaggeration" background="darkorange"/>
+    <Label value="Understatement" background="#00fcff"/>
+    <Label value="Agree with the gold answer" background="green"/>
+    <Label value="Cannot assess" background="blue"/>
+    <Label value="General comment" background="#932092"/>
+  </Labels>
+  <Text name="llm_answer_eval_2" value="$llm_answer"/>
+  </View>
+</View>
+
+
+<View visibleWhen="choice-selected" whenTagName="llm_answer_label_1" whenChoiceValue="Valid" style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px; ">
+ <Header value="Medical terms in the gold answer"/>
+  <Text name="refAnswer_1_terms" value="$gold_answer_terms"/>
+</View>
+
+
+</View>

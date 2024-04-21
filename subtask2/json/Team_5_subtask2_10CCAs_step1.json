@@ -1,0 +1,623 @@
+[
+    {
+        "data": {
+            "doi": "10.1002/cca.3910",
+            "question": "For adults with cardiovascular disease, how do dipeptidyl peptidase\u20104 inhibitors, glucagon\u2010like peptide 1 receptor agonists and sodium\u2010glucose co\u2010transporter\u20102 inhibitors compare in reducing mortality and adverse effects?",
+            "gold_answer": "Reviewers found that for adults with cardiovascular disease, glucagon\u2010like peptide 1 receptor agonists (GLP\u20101RA) and sodium\u2010glucose co\u2010transporter\u20102 inhibitors (SGLT2i) reduced cardiovascular mortality (on average, 5 and 14 people difference per 1000 people, respectively) and all\u2010cause mortality (8 and 17 people difference per 1000 people) when compared with placebo (high\u2010certainty evidence for GLP\u20101RA and moderate\u2010certainty evidence for SGLT2i). Although results did not reach statistical significance, GLP\u20101RA may have reduced incidence of myocardial infarction (MI; 58 vs 65 per 1000 people) and stroke (26 vs 29 per 1000 people; moderate\u2010certainty evidence). SGLT2i reduced hospitalization for heart failure (78 vs 116 per 1000 people; high\u2010certainty evidence). As for adverse effects, moderate\u2010certainty evidence suggests that DPP4i increased risk of pancreatitis (5 vs 3 per 1000 people), but there was little to no difference between active treatment and placebo for any other adverse effect (worsening of renal function, hypoglycemia or fracture). Results of a network meta\u2010analysis (NMA) show that GLP1\u2010RA was ranked the most effective in terms of stroke and MI (high\u2010 to moderate\u2010certainty evidence), and SGLT2i the most effective in terms of mortality (moderate\u2010certainty evidence) and hospitalization for heart failure (high\u2010certainty evidence). SGLT2i was also ranked the safest treatment in terms of pancreatitis (moderate\u2010certainty evidence; event rates were very low in all groups) and worsening of renal function (low\u2010certainty evidence).",
+            "gold_answer_terms": "Reviewers found that for adults with cardiovascular disease, glucagon\u2010like peptide 1 receptor agonists (GLP\u20101RA) and sodium\u2010glucose co\u2010transporter\u20102 inhibitors (SGLT2i) reduced cardiovascular mortality (on average, 5 and 14 people difference per 1000 people, respectively) and all\u2010cause mortality (8 and 17 people difference per 1000 people) when compared with placebo (high\u2010certainty evidence for GLP\u20101RA and moderate\u2010certainty evidence for SGLT2i). Although results did not reach statistical significance, GLP\u20101RA may have reduced incidence of myocardial infarction (MI; 58 vs 65 per 1000 people) and stroke (26 vs 29 per 1000 people; moderate\u2010certainty evidence). SGLT2i reduced hospitalization for heart failure (78 vs 116 per 1000 people; high\u2010certainty evidence). As for adverse effects, moderate\u2010certainty evidence suggests that DPP4i increased risk of pancreatitis (5 vs 3 per 1000 people), but there was little to no difference between active treatment and placebo for any other adverse effect (worsening of renal function, hypoglycemia or fracture). Results of a network meta\u2010analysis (NMA) show that GLP1\u2010RA was ranked the most effective in terms of stroke and MI (high\u2010 to moderate\u2010certainty evidence), and SGLT2i the most effective in terms of mortality (moderate\u2010certainty evidence) and hospitalization for heart failure (high\u2010certainty evidence). SGLT2i was also ranked the safest treatment in terms of pancreatitis (moderate\u2010certainty evidence; event rates were very low in all groups) and worsening of renal function (low\u2010certainty evidence).",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3910",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For adults with cardiovascular disease, how do dipeptidyl peptidase\u20104 inhibitors, glucagon\u2010like peptide 1 receptor agonists and sodium\u2010glucose co\u2010transporter\u20102 inhibitors compare in reducing mortality and adverse effects?",
+            "topic1": [
+                "heart circulation"
+            ],
+            "topic2": [
+                "heart disease prevention"
+            ],
+            "year": 2022,
+            "author": "Tort, Sera; Gruenebaum, Dane"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3910",
+            "question": "For adults with cardiovascular disease, how do dipeptidyl peptidase\u20104 inhibitors, glucagon\u2010like peptide 1 receptor agonists and sodium\u2010glucose co\u2010transporter\u20102 inhibitors compare in reducing mortality and adverse effects?",
+            "gold_answer": "Reviewers found that for adults with cardiovascular disease, glucagon\u2010like peptide 1 receptor agonists (GLP\u20101RA) and sodium\u2010glucose co\u2010transporter\u20102 inhibitors (SGLT2i) reduced cardiovascular mortality (on average, 5 and 14 people difference per 1000 people, respectively) and all\u2010cause mortality (8 and 17 people difference per 1000 people) when compared with placebo (high\u2010certainty evidence for GLP\u20101RA and moderate\u2010certainty evidence for SGLT2i). Although results did not reach statistical significance, GLP\u20101RA may have reduced incidence of myocardial infarction (MI; 58 vs 65 per 1000 people) and stroke (26 vs 29 per 1000 people; moderate\u2010certainty evidence). SGLT2i reduced hospitalization for heart failure (78 vs 116 per 1000 people; high\u2010certainty evidence). As for adverse effects, moderate\u2010certainty evidence suggests that DPP4i increased risk of pancreatitis (5 vs 3 per 1000 people), but there was little to no difference between active treatment and placebo for any other adverse effect (worsening of renal function, hypoglycemia or fracture). Results of a network meta\u2010analysis (NMA) show that GLP1\u2010RA was ranked the most effective in terms of stroke and MI (high\u2010 to moderate\u2010certainty evidence), and SGLT2i the most effective in terms of mortality (moderate\u2010certainty evidence) and hospitalization for heart failure (high\u2010certainty evidence). SGLT2i was also ranked the safest treatment in terms of pancreatitis (moderate\u2010certainty evidence; event rates were very low in all groups) and worsening of renal function (low\u2010certainty evidence).",
+            "gold_answer_terms": "Reviewers found that for adults with cardiovascular disease, glucagon\u2010like peptide 1 receptor agonists (GLP\u20101RA) and sodium\u2010glucose co\u2010transporter\u20102 inhibitors (SGLT2i) reduced cardiovascular mortality (on average, 5 and 14 people difference per 1000 people, respectively) and all\u2010cause mortality (8 and 17 people difference per 1000 people) when compared with placebo (high\u2010certainty evidence for GLP\u20101RA and moderate\u2010certainty evidence for SGLT2i). Although results did not reach statistical significance, GLP\u20101RA may have reduced incidence of myocardial infarction (MI; 58 vs 65 per 1000 people) and stroke (26 vs 29 per 1000 people; moderate\u2010certainty evidence). SGLT2i reduced hospitalization for heart failure (78 vs 116 per 1000 people; high\u2010certainty evidence). As for adverse effects, moderate\u2010certainty evidence suggests that DPP4i increased risk of pancreatitis (5 vs 3 per 1000 people), but there was little to no difference between active treatment and placebo for any other adverse effect (worsening of renal function, hypoglycemia or fracture). Results of a network meta\u2010analysis (NMA) show that GLP1\u2010RA was ranked the most effective in terms of stroke and MI (high\u2010 to moderate\u2010certainty evidence), and SGLT2i the most effective in terms of mortality (moderate\u2010certainty evidence) and hospitalization for heart failure (high\u2010certainty evidence). SGLT2i was also ranked the safest treatment in terms of pancreatitis (moderate\u2010certainty evidence; event rates were very low in all groups) and worsening of renal function (low\u2010certainty evidence).",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3910",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For adults with cardiovascular disease, how do dipeptidyl peptidase\u20104 inhibitors, glucagon\u2010like peptide 1 receptor agonists and sodium\u2010glucose co\u2010transporter\u20102 inhibitors compare in reducing mortality and adverse effects?",
+            "topic1": [
+                "heart circulation"
+            ],
+            "topic2": [
+                "heart disease prevention"
+            ],
+            "year": 2022,
+            "author": "Tort, Sera; Gruenebaum, Dane"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3910",
+            "question": "For adults with cardiovascular disease, how do dipeptidyl peptidase\u20104 inhibitors, glucagon\u2010like peptide 1 receptor agonists and sodium\u2010glucose co\u2010transporter\u20102 inhibitors compare in reducing mortality and adverse effects?",
+            "gold_answer": "Reviewers found that for adults with cardiovascular disease, glucagon\u2010like peptide 1 receptor agonists (GLP\u20101RA) and sodium\u2010glucose co\u2010transporter\u20102 inhibitors (SGLT2i) reduced cardiovascular mortality (on average, 5 and 14 people difference per 1000 people, respectively) and all\u2010cause mortality (8 and 17 people difference per 1000 people) when compared with placebo (high\u2010certainty evidence for GLP\u20101RA and moderate\u2010certainty evidence for SGLT2i). Although results did not reach statistical significance, GLP\u20101RA may have reduced incidence of myocardial infarction (MI; 58 vs 65 per 1000 people) and stroke (26 vs 29 per 1000 people; moderate\u2010certainty evidence). SGLT2i reduced hospitalization for heart failure (78 vs 116 per 1000 people; high\u2010certainty evidence). As for adverse effects, moderate\u2010certainty evidence suggests that DPP4i increased risk of pancreatitis (5 vs 3 per 1000 people), but there was little to no difference between active treatment and placebo for any other adverse effect (worsening of renal function, hypoglycemia or fracture). Results of a network meta\u2010analysis (NMA) show that GLP1\u2010RA was ranked the most effective in terms of stroke and MI (high\u2010 to moderate\u2010certainty evidence), and SGLT2i the most effective in terms of mortality (moderate\u2010certainty evidence) and hospitalization for heart failure (high\u2010certainty evidence). SGLT2i was also ranked the safest treatment in terms of pancreatitis (moderate\u2010certainty evidence; event rates were very low in all groups) and worsening of renal function (low\u2010certainty evidence).",
+            "gold_answer_terms": "Reviewers found that for adults with cardiovascular disease, glucagon\u2010like peptide 1 receptor agonists (GLP\u20101RA) and sodium\u2010glucose co\u2010transporter\u20102 inhibitors (SGLT2i) reduced cardiovascular mortality (on average, 5 and 14 people difference per 1000 people, respectively) and all\u2010cause mortality (8 and 17 people difference per 1000 people) when compared with placebo (high\u2010certainty evidence for GLP\u20101RA and moderate\u2010certainty evidence for SGLT2i). Although results did not reach statistical significance, GLP\u20101RA may have reduced incidence of myocardial infarction (MI; 58 vs 65 per 1000 people) and stroke (26 vs 29 per 1000 people; moderate\u2010certainty evidence). SGLT2i reduced hospitalization for heart failure (78 vs 116 per 1000 people; high\u2010certainty evidence). As for adverse effects, moderate\u2010certainty evidence suggests that DPP4i increased risk of pancreatitis (5 vs 3 per 1000 people), but there was little to no difference between active treatment and placebo for any other adverse effect (worsening of renal function, hypoglycemia or fracture). Results of a network meta\u2010analysis (NMA) show that GLP1\u2010RA was ranked the most effective in terms of stroke and MI (high\u2010 to moderate\u2010certainty evidence), and SGLT2i the most effective in terms of mortality (moderate\u2010certainty evidence) and hospitalization for heart failure (high\u2010certainty evidence). SGLT2i was also ranked the safest treatment in terms of pancreatitis (moderate\u2010certainty evidence; event rates were very low in all groups) and worsening of renal function (low\u2010certainty evidence).",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3910",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For adults with cardiovascular disease, how do dipeptidyl peptidase\u20104 inhibitors, glucagon\u2010like peptide 1 receptor agonists and sodium\u2010glucose co\u2010transporter\u20102 inhibitors compare in reducing mortality and adverse effects?",
+            "topic1": [
+                "heart circulation"
+            ],
+            "topic2": [
+                "heart disease prevention"
+            ],
+            "year": 2022,
+            "author": "Tort, Sera; Gruenebaum, Dane"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4105",
+            "question": "What is the accuracy of combinations of menopausal status, ultrasound scan (USS), and biomarkers for the diagnosis of ovarian cancer (OC) in pre\u2010 and postmenopausal women with symptoms suspicious of OC?",
+            "gold_answer": "For premenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, LR2 resulted in fewer wrong diagnoses. For postmenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, ROMA resulted in fewer wrong diagnoses. Reviewers evaluated the accuracy of different indices that combine menopausal status, USS, and biomarkers in pre\u2010 and postmenopausal women with symptoms suspicious of OC using histology in those who had undergone surgery, or clinical follow\u2010up in those with negative index test results, as the reference standard. For premenopausal women, the pooled sensitivity and specificity for each index test were 57% and 93% with RMI, 77% and 84% with ROMA, 83% and 90% with LR2, and 96% and 78% with ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average numbers of OC cases that would have been missed were 13 for RMI, 7 for ROMA, 5 for LR2, and 1 for ADNEX, and wrongly diagnosed women with OC would be 73 with RMI, 152 with ROMA, 93 with LR2, and 215 with ADNEX. For postmenopausal women, the pooled sensitivity and specificity for each index test were 78% and 85% for RMI, 90% and 82% for ROMA, 95% and 61% for LR2, and 98% and 55% for ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average number of OC cases that would have been missed were 6 with RMI, 3 with ROMA, 2 with LR2, and 1 with ADNEX, and wrongly diagnosed women with OC would be 142 with RMI, 179 with ROMA, 382 with LR2, and 437 with ADNEX.",
+            "gold_answer_terms": "For premenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, LR2 resulted in fewer wrong diagnoses. For postmenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, ROMA resulted in fewer wrong diagnoses. Reviewers evaluated the accuracy of different indices that combine menopausal status, USS, and biomarkers in pre\u2010 and postmenopausal women with symptoms suspicious of OC using histology in those who had undergone surgery, or clinical follow\u2010up in those with negative index test results, as the reference standard. For premenopausal women, the pooled sensitivity and specificity for each index test were 57% and 93% with RMI, 77% and 84% with ROMA, 83% and 90% with LR2, and 96% and 78% with ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average numbers of OC cases that would have been missed were 13 for RMI, 7 for ROMA, 5 for LR2, and 1 for ADNEX, and wrongly diagnosed women with OC would be 73 with RMI, 152 with ROMA, 93 with LR2, and 215 with ADNEX. For postmenopausal women, the pooled sensitivity and specificity for each index test were 78% and 85% for RMI, 90% and 82% for ROMA, 95% and 61% for LR2, and 98% and 55% for ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average number of OC cases that would have been missed were 6 with RMI, 3 with ROMA, 2 with LR2, and 1 with ADNEX, and wrongly diagnosed women with OC would be 142 with RMI, 179 with ROMA, 382 with LR2, and 437 with ADNEX.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4105",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of combinations of menopausal status, ultrasound scan (USS), and biomarkers for the diagnosis of ovarian cancer (OC) in pre\u2010 and postmenopausal women with symptoms suspicious of OC?",
+            "topic1": [
+                "gynaecology",
+                "cancers"
+            ],
+            "topic2": [],
+            "year": 2022,
+            "author": "Ciapponi, Agust\u00edn; Sharifan, Amin"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4105",
+            "question": "What is the accuracy of combinations of menopausal status, ultrasound scan (USS), and biomarkers for the diagnosis of ovarian cancer (OC) in pre\u2010 and postmenopausal women with symptoms suspicious of OC?",
+            "gold_answer": "For premenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, LR2 resulted in fewer wrong diagnoses. For postmenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, ROMA resulted in fewer wrong diagnoses. Reviewers evaluated the accuracy of different indices that combine menopausal status, USS, and biomarkers in pre\u2010 and postmenopausal women with symptoms suspicious of OC using histology in those who had undergone surgery, or clinical follow\u2010up in those with negative index test results, as the reference standard. For premenopausal women, the pooled sensitivity and specificity for each index test were 57% and 93% with RMI, 77% and 84% with ROMA, 83% and 90% with LR2, and 96% and 78% with ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average numbers of OC cases that would have been missed were 13 for RMI, 7 for ROMA, 5 for LR2, and 1 for ADNEX, and wrongly diagnosed women with OC would be 73 with RMI, 152 with ROMA, 93 with LR2, and 215 with ADNEX. For postmenopausal women, the pooled sensitivity and specificity for each index test were 78% and 85% for RMI, 90% and 82% for ROMA, 95% and 61% for LR2, and 98% and 55% for ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average number of OC cases that would have been missed were 6 with RMI, 3 with ROMA, 2 with LR2, and 1 with ADNEX, and wrongly diagnosed women with OC would be 142 with RMI, 179 with ROMA, 382 with LR2, and 437 with ADNEX.",
+            "gold_answer_terms": "For premenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, LR2 resulted in fewer wrong diagnoses. For postmenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, ROMA resulted in fewer wrong diagnoses. Reviewers evaluated the accuracy of different indices that combine menopausal status, USS, and biomarkers in pre\u2010 and postmenopausal women with symptoms suspicious of OC using histology in those who had undergone surgery, or clinical follow\u2010up in those with negative index test results, as the reference standard. For premenopausal women, the pooled sensitivity and specificity for each index test were 57% and 93% with RMI, 77% and 84% with ROMA, 83% and 90% with LR2, and 96% and 78% with ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average numbers of OC cases that would have been missed were 13 for RMI, 7 for ROMA, 5 for LR2, and 1 for ADNEX, and wrongly diagnosed women with OC would be 73 with RMI, 152 with ROMA, 93 with LR2, and 215 with ADNEX. For postmenopausal women, the pooled sensitivity and specificity for each index test were 78% and 85% for RMI, 90% and 82% for ROMA, 95% and 61% for LR2, and 98% and 55% for ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average number of OC cases that would have been missed were 6 with RMI, 3 with ROMA, 2 with LR2, and 1 with ADNEX, and wrongly diagnosed women with OC would be 142 with RMI, 179 with ROMA, 382 with LR2, and 437 with ADNEX.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4105",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of combinations of menopausal status, ultrasound scan (USS), and biomarkers for the diagnosis of ovarian cancer (OC) in pre\u2010 and postmenopausal women with symptoms suspicious of OC?",
+            "topic1": [
+                "gynaecology",
+                "cancers"
+            ],
+            "topic2": [],
+            "year": 2022,
+            "author": "Ciapponi, Agust\u00edn; Sharifan, Amin"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4105",
+            "question": "What is the accuracy of combinations of menopausal status, ultrasound scan (USS), and biomarkers for the diagnosis of ovarian cancer (OC) in pre\u2010 and postmenopausal women with symptoms suspicious of OC?",
+            "gold_answer": "For premenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, LR2 resulted in fewer wrong diagnoses. For postmenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, ROMA resulted in fewer wrong diagnoses. Reviewers evaluated the accuracy of different indices that combine menopausal status, USS, and biomarkers in pre\u2010 and postmenopausal women with symptoms suspicious of OC using histology in those who had undergone surgery, or clinical follow\u2010up in those with negative index test results, as the reference standard. For premenopausal women, the pooled sensitivity and specificity for each index test were 57% and 93% with RMI, 77% and 84% with ROMA, 83% and 90% with LR2, and 96% and 78% with ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average numbers of OC cases that would have been missed were 13 for RMI, 7 for ROMA, 5 for LR2, and 1 for ADNEX, and wrongly diagnosed women with OC would be 73 with RMI, 152 with ROMA, 93 with LR2, and 215 with ADNEX. For postmenopausal women, the pooled sensitivity and specificity for each index test were 78% and 85% for RMI, 90% and 82% for ROMA, 95% and 61% for LR2, and 98% and 55% for ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average number of OC cases that would have been missed were 6 with RMI, 3 with ROMA, 2 with LR2, and 1 with ADNEX, and wrongly diagnosed women with OC would be 142 with RMI, 179 with ROMA, 382 with LR2, and 437 with ADNEX.",
+            "gold_answer_terms": "For premenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, LR2 resulted in fewer wrong diagnoses. For postmenopausal women with symptoms suspicious of OC, ROMA, LR2, and ADNEX indices missed fewer OC, and of these tests, ROMA resulted in fewer wrong diagnoses. Reviewers evaluated the accuracy of different indices that combine menopausal status, USS, and biomarkers in pre\u2010 and postmenopausal women with symptoms suspicious of OC using histology in those who had undergone surgery, or clinical follow\u2010up in those with negative index test results, as the reference standard. For premenopausal women, the pooled sensitivity and specificity for each index test were 57% and 93% with RMI, 77% and 84% with ROMA, 83% and 90% with LR2, and 96% and 78% with ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average numbers of OC cases that would have been missed were 13 for RMI, 7 for ROMA, 5 for LR2, and 1 for ADNEX, and wrongly diagnosed women with OC would be 73 with RMI, 152 with ROMA, 93 with LR2, and 215 with ADNEX. For postmenopausal women, the pooled sensitivity and specificity for each index test were 78% and 85% for RMI, 90% and 82% for ROMA, 95% and 61% for LR2, and 98% and 55% for ADNEX, respectively. Using the estimates of these index tests at an OC prevalence of 3%, the reviewers reported that for every 1000 premenopausal women tested, the average number of OC cases that would have been missed were 6 with RMI, 3 with ROMA, 2 with LR2, and 1 with ADNEX, and wrongly diagnosed women with OC would be 142 with RMI, 179 with ROMA, 382 with LR2, and 437 with ADNEX.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4105",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of combinations of menopausal status, ultrasound scan (USS), and biomarkers for the diagnosis of ovarian cancer (OC) in pre\u2010 and postmenopausal women with symptoms suspicious of OC?",
+            "topic1": [
+                "gynaecology",
+                "cancers"
+            ],
+            "topic2": [],
+            "year": 2022,
+            "author": "Ciapponi, Agust\u00edn; Sharifan, Amin"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3290",
+            "question": "For people presenting with chest trauma in the emergency department, how does chest ultrasonography compare with supine chest X\u2010ray for the diagnosis of pneumothorax?",
+            "gold_answer": "Using computed tomography or tube thoracostomy as the reference standard, reviewers compared the accuracy of chest ultrasonography and supine chest X\u2010ray for the diagnosis of pneumothorax in people presenting with chest trauma in the emergency department. Ultrasonography appears to be superior to X\u2010ray in terms of sensitivity (91% vs 47%), with similar specificities for the two methods. Variation in sensitivity impacts the tests' ability to rule out disease (ultrasonography produces fewer false\u2010negatives); on average, for every 100 people with a pneumothorax tested, at a prevalence of 28% to 36%, 3 would be missed with ultrasonography versus 15 to 19 with X\u2010ray. It is worth noting that reviewers did not classify any studies as being at low risk of bias for all five quality criteria assessed.",
+            "gold_answer_terms": "Using computed tomography or tube thoracostomy as the reference standard, reviewers compared the accuracy of chest ultrasonography and supine chest X\u2010ray for the diagnosis of pneumothorax in people presenting with chest trauma in the emergency department. Ultrasonography appears to be superior to X\u2010ray in terms of sensitivity (91% vs 47%), with similar specificities for the two methods. Variation in sensitivity impacts the tests' ability to rule out disease (ultrasonography produces fewer false\u2010negatives); on average, for every 100 people with a pneumothorax tested, at a prevalence of 28% to 36%, 3 would be missed with ultrasonography versus 15 to 19 with X\u2010ray. It is worth noting that reviewers did not classify any studies as being at low risk of bias for all five quality criteria assessed.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3290",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people presenting with chest trauma in the emergency department, how does chest ultrasonography compare with supine chest X\u2010ray for the diagnosis of pneumothorax?",
+            "topic1": [
+                "pain anaesthesia",
+                "lungs airways"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Mulhem, Elie"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3290",
+            "question": "For people presenting with chest trauma in the emergency department, how does chest ultrasonography compare with supine chest X\u2010ray for the diagnosis of pneumothorax?",
+            "gold_answer": "Using computed tomography or tube thoracostomy as the reference standard, reviewers compared the accuracy of chest ultrasonography and supine chest X\u2010ray for the diagnosis of pneumothorax in people presenting with chest trauma in the emergency department. Ultrasonography appears to be superior to X\u2010ray in terms of sensitivity (91% vs 47%), with similar specificities for the two methods. Variation in sensitivity impacts the tests' ability to rule out disease (ultrasonography produces fewer false\u2010negatives); on average, for every 100 people with a pneumothorax tested, at a prevalence of 28% to 36%, 3 would be missed with ultrasonography versus 15 to 19 with X\u2010ray. It is worth noting that reviewers did not classify any studies as being at low risk of bias for all five quality criteria assessed.",
+            "gold_answer_terms": "Using computed tomography or tube thoracostomy as the reference standard, reviewers compared the accuracy of chest ultrasonography and supine chest X\u2010ray for the diagnosis of pneumothorax in people presenting with chest trauma in the emergency department. Ultrasonography appears to be superior to X\u2010ray in terms of sensitivity (91% vs 47%), with similar specificities for the two methods. Variation in sensitivity impacts the tests' ability to rule out disease (ultrasonography produces fewer false\u2010negatives); on average, for every 100 people with a pneumothorax tested, at a prevalence of 28% to 36%, 3 would be missed with ultrasonography versus 15 to 19 with X\u2010ray. It is worth noting that reviewers did not classify any studies as being at low risk of bias for all five quality criteria assessed.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3290",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people presenting with chest trauma in the emergency department, how does chest ultrasonography compare with supine chest X\u2010ray for the diagnosis of pneumothorax?",
+            "topic1": [
+                "pain anaesthesia",
+                "lungs airways"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Mulhem, Elie"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3290",
+            "question": "For people presenting with chest trauma in the emergency department, how does chest ultrasonography compare with supine chest X\u2010ray for the diagnosis of pneumothorax?",
+            "gold_answer": "Using computed tomography or tube thoracostomy as the reference standard, reviewers compared the accuracy of chest ultrasonography and supine chest X\u2010ray for the diagnosis of pneumothorax in people presenting with chest trauma in the emergency department. Ultrasonography appears to be superior to X\u2010ray in terms of sensitivity (91% vs 47%), with similar specificities for the two methods. Variation in sensitivity impacts the tests' ability to rule out disease (ultrasonography produces fewer false\u2010negatives); on average, for every 100 people with a pneumothorax tested, at a prevalence of 28% to 36%, 3 would be missed with ultrasonography versus 15 to 19 with X\u2010ray. It is worth noting that reviewers did not classify any studies as being at low risk of bias for all five quality criteria assessed.",
+            "gold_answer_terms": "Using computed tomography or tube thoracostomy as the reference standard, reviewers compared the accuracy of chest ultrasonography and supine chest X\u2010ray for the diagnosis of pneumothorax in people presenting with chest trauma in the emergency department. Ultrasonography appears to be superior to X\u2010ray in terms of sensitivity (91% vs 47%), with similar specificities for the two methods. Variation in sensitivity impacts the tests' ability to rule out disease (ultrasonography produces fewer false\u2010negatives); on average, for every 100 people with a pneumothorax tested, at a prevalence of 28% to 36%, 3 would be missed with ultrasonography versus 15 to 19 with X\u2010ray. It is worth noting that reviewers did not classify any studies as being at low risk of bias for all five quality criteria assessed.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3290",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people presenting with chest trauma in the emergency department, how does chest ultrasonography compare with supine chest X\u2010ray for the diagnosis of pneumothorax?",
+            "topic1": [
+                "pain anaesthesia",
+                "lungs airways"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Mulhem, Elie"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4040",
+            "question": "What are the effects of negative pressure wound therapy (NPWT) for adults with surgical wounds healing by primary closure?",
+            "gold_answer": "RCT evidence is insufficient to permit any firm conclusions regarding the overall effectiveness and safety of NPWT in adults with a surgical wound. Moderate\u2010certainty evidence shows that probably fewer people developed a surgical site infection with NPWT than with a standard dressing, although the absolute numbers of people who benefited were low (on average, 68 vs 93 per 1000 people). However, NPWT had little to no effect on rates of mortality, dehiscence, reoperation, and readmission (low\u2010 to moderate\u2010certainty evidence). Rates of seroma and hematoma were similar between groups, while NPWT was associated with an increased risk of skin blisters (low\u2010 to very\u2010low certainty evidence). Results for pain were inconsistent across trials.",
+            "gold_answer_terms": "RCT evidence is insufficient to permit any firm conclusions regarding the overall effectiveness and safety of NPWT in adults with a surgical wound. Moderate\u2010certainty evidence shows that probably fewer people developed a surgical site infection with NPWT than with a standard dressing, although the absolute numbers of people who benefited were low (on average, 68 vs 93 per 1000 people). However, NPWT had little to no effect on rates of mortality, dehiscence, reoperation, and readmission (low\u2010 to moderate\u2010certainty evidence). Rates of seroma and hematoma were similar between groups, while NPWT was associated with an increased risk of skin blisters (low\u2010 to very\u2010low certainty evidence). Results for pain were inconsistent across trials.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4040",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What are the effects of negative pressure wound therapy (NPWT) for adults with surgical wounds healing by primary closure?",
+            "topic1": [
+                "child health",
+                "skin disorders"
+            ],
+            "topic2": [],
+            "year": 2022,
+            "author": "Fowler, Cathryn; Weller, Carolina D"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4040",
+            "question": "What are the effects of negative pressure wound therapy (NPWT) for adults with surgical wounds healing by primary closure?",
+            "gold_answer": "RCT evidence is insufficient to permit any firm conclusions regarding the overall effectiveness and safety of NPWT in adults with a surgical wound. Moderate\u2010certainty evidence shows that probably fewer people developed a surgical site infection with NPWT than with a standard dressing, although the absolute numbers of people who benefited were low (on average, 68 vs 93 per 1000 people). However, NPWT had little to no effect on rates of mortality, dehiscence, reoperation, and readmission (low\u2010 to moderate\u2010certainty evidence). Rates of seroma and hematoma were similar between groups, while NPWT was associated with an increased risk of skin blisters (low\u2010 to very\u2010low certainty evidence). Results for pain were inconsistent across trials.",
+            "gold_answer_terms": "RCT evidence is insufficient to permit any firm conclusions regarding the overall effectiveness and safety of NPWT in adults with a surgical wound. Moderate\u2010certainty evidence shows that probably fewer people developed a surgical site infection with NPWT than with a standard dressing, although the absolute numbers of people who benefited were low (on average, 68 vs 93 per 1000 people). However, NPWT had little to no effect on rates of mortality, dehiscence, reoperation, and readmission (low\u2010 to moderate\u2010certainty evidence). Rates of seroma and hematoma were similar between groups, while NPWT was associated with an increased risk of skin blisters (low\u2010 to very\u2010low certainty evidence). Results for pain were inconsistent across trials.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4040",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What are the effects of negative pressure wound therapy (NPWT) for adults with surgical wounds healing by primary closure?",
+            "topic1": [
+                "child health",
+                "skin disorders"
+            ],
+            "topic2": [],
+            "year": 2022,
+            "author": "Fowler, Cathryn; Weller, Carolina D"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4040",
+            "question": "What are the effects of negative pressure wound therapy (NPWT) for adults with surgical wounds healing by primary closure?",
+            "gold_answer": "RCT evidence is insufficient to permit any firm conclusions regarding the overall effectiveness and safety of NPWT in adults with a surgical wound. Moderate\u2010certainty evidence shows that probably fewer people developed a surgical site infection with NPWT than with a standard dressing, although the absolute numbers of people who benefited were low (on average, 68 vs 93 per 1000 people). However, NPWT had little to no effect on rates of mortality, dehiscence, reoperation, and readmission (low\u2010 to moderate\u2010certainty evidence). Rates of seroma and hematoma were similar between groups, while NPWT was associated with an increased risk of skin blisters (low\u2010 to very\u2010low certainty evidence). Results for pain were inconsistent across trials.",
+            "gold_answer_terms": "RCT evidence is insufficient to permit any firm conclusions regarding the overall effectiveness and safety of NPWT in adults with a surgical wound. Moderate\u2010certainty evidence shows that probably fewer people developed a surgical site infection with NPWT than with a standard dressing, although the absolute numbers of people who benefited were low (on average, 68 vs 93 per 1000 people). However, NPWT had little to no effect on rates of mortality, dehiscence, reoperation, and readmission (low\u2010 to moderate\u2010certainty evidence). Rates of seroma and hematoma were similar between groups, while NPWT was associated with an increased risk of skin blisters (low\u2010 to very\u2010low certainty evidence). Results for pain were inconsistent across trials.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4040",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What are the effects of negative pressure wound therapy (NPWT) for adults with surgical wounds healing by primary closure?",
+            "topic1": [
+                "child health",
+                "skin disorders"
+            ],
+            "topic2": [],
+            "year": 2022,
+            "author": "Fowler, Cathryn; Weller, Carolina D"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3802",
+            "question": "What is the accuracy of the World Health Organization (WHO) four\u2010symptom screen for active pulmonary tuberculosis (TB) in children with HIV?",
+            "gold_answer": "Compared with a composite reference standard in children with HIV screened for active pulmonary TB, moderate\u2010certainty evidence shows that the WHO four\u2010symptom screen (any one of current cough, fever, poor weight gain, or contact with a person with TB) probably has a sensitivity of approx. 61% (all results on average). Evidence for specificity is of low certainty and is estimated at 94%. Using these pooled estimates and a TB prevalence of 5%, reviewers reported that 57 children could be wrongly diagnosed with pulmonary TB and 19 cases of pulmonary TB could be missed for every 1000 children tested. Children with a missed diagnosis due to a false\u2010negative test are at high risk of TB\u2010associated complications. From a pretest probability of 5%, the probability of pulmonary TB would increase to ~35% after a positive test and would decrease to ~2% after a negative test. It is worth noting that one study conducted in South Africa in people up to 20 years of age (median 11 years) contributed 99% of the screens included in the analysis.",
+            "gold_answer_terms": "Compared with a composite reference standard in children with HIV screened for active pulmonary TB, moderate\u2010certainty evidence shows that the WHO four\u2010symptom screen (any one of current cough, fever, poor weight gain, or contact with a person with TB) probably has a sensitivity of approx. 61% (all results on average). Evidence for specificity is of low certainty and is estimated at 94%. Using these pooled estimates and a TB prevalence of 5%, reviewers reported that 57 children could be wrongly diagnosed with pulmonary TB and 19 cases of pulmonary TB could be missed for every 1000 children tested. Children with a missed diagnosis due to a false\u2010negative test are at high risk of TB\u2010associated complications. From a pretest probability of 5%, the probability of pulmonary TB would increase to ~35% after a positive test and would decrease to ~2% after a negative test. It is worth noting that one study conducted in South Africa in people up to 20 years of age (median 11 years) contributed 99% of the screens included in the analysis.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3802",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of the World Health Organization (WHO) four\u2010symptom screen for active pulmonary tuberculosis (TB) in children with HIV?",
+            "topic1": [
+                "child health",
+                "infectious disease",
+                "lungs airways"
+            ],
+            "topic2": [
+                "respiratory infections"
+            ],
+            "year": 2021,
+            "author": "Burch, Jane; Taoum, Katia El"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3802",
+            "question": "What is the accuracy of the World Health Organization (WHO) four\u2010symptom screen for active pulmonary tuberculosis (TB) in children with HIV?",
+            "gold_answer": "Compared with a composite reference standard in children with HIV screened for active pulmonary TB, moderate\u2010certainty evidence shows that the WHO four\u2010symptom screen (any one of current cough, fever, poor weight gain, or contact with a person with TB) probably has a sensitivity of approx. 61% (all results on average). Evidence for specificity is of low certainty and is estimated at 94%. Using these pooled estimates and a TB prevalence of 5%, reviewers reported that 57 children could be wrongly diagnosed with pulmonary TB and 19 cases of pulmonary TB could be missed for every 1000 children tested. Children with a missed diagnosis due to a false\u2010negative test are at high risk of TB\u2010associated complications. From a pretest probability of 5%, the probability of pulmonary TB would increase to ~35% after a positive test and would decrease to ~2% after a negative test. It is worth noting that one study conducted in South Africa in people up to 20 years of age (median 11 years) contributed 99% of the screens included in the analysis.",
+            "gold_answer_terms": "Compared with a composite reference standard in children with HIV screened for active pulmonary TB, moderate\u2010certainty evidence shows that the WHO four\u2010symptom screen (any one of current cough, fever, poor weight gain, or contact with a person with TB) probably has a sensitivity of approx. 61% (all results on average). Evidence for specificity is of low certainty and is estimated at 94%. Using these pooled estimates and a TB prevalence of 5%, reviewers reported that 57 children could be wrongly diagnosed with pulmonary TB and 19 cases of pulmonary TB could be missed for every 1000 children tested. Children with a missed diagnosis due to a false\u2010negative test are at high risk of TB\u2010associated complications. From a pretest probability of 5%, the probability of pulmonary TB would increase to ~35% after a positive test and would decrease to ~2% after a negative test. It is worth noting that one study conducted in South Africa in people up to 20 years of age (median 11 years) contributed 99% of the screens included in the analysis.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3802",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of the World Health Organization (WHO) four\u2010symptom screen for active pulmonary tuberculosis (TB) in children with HIV?",
+            "topic1": [
+                "child health",
+                "infectious disease",
+                "lungs airways"
+            ],
+            "topic2": [
+                "respiratory infections"
+            ],
+            "year": 2021,
+            "author": "Burch, Jane; Taoum, Katia El"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3802",
+            "question": "What is the accuracy of the World Health Organization (WHO) four\u2010symptom screen for active pulmonary tuberculosis (TB) in children with HIV?",
+            "gold_answer": "Compared with a composite reference standard in children with HIV screened for active pulmonary TB, moderate\u2010certainty evidence shows that the WHO four\u2010symptom screen (any one of current cough, fever, poor weight gain, or contact with a person with TB) probably has a sensitivity of approx. 61% (all results on average). Evidence for specificity is of low certainty and is estimated at 94%. Using these pooled estimates and a TB prevalence of 5%, reviewers reported that 57 children could be wrongly diagnosed with pulmonary TB and 19 cases of pulmonary TB could be missed for every 1000 children tested. Children with a missed diagnosis due to a false\u2010negative test are at high risk of TB\u2010associated complications. From a pretest probability of 5%, the probability of pulmonary TB would increase to ~35% after a positive test and would decrease to ~2% after a negative test. It is worth noting that one study conducted in South Africa in people up to 20 years of age (median 11 years) contributed 99% of the screens included in the analysis.",
+            "gold_answer_terms": "Compared with a composite reference standard in children with HIV screened for active pulmonary TB, moderate\u2010certainty evidence shows that the WHO four\u2010symptom screen (any one of current cough, fever, poor weight gain, or contact with a person with TB) probably has a sensitivity of approx. 61% (all results on average). Evidence for specificity is of low certainty and is estimated at 94%. Using these pooled estimates and a TB prevalence of 5%, reviewers reported that 57 children could be wrongly diagnosed with pulmonary TB and 19 cases of pulmonary TB could be missed for every 1000 children tested. Children with a missed diagnosis due to a false\u2010negative test are at high risk of TB\u2010associated complications. From a pretest probability of 5%, the probability of pulmonary TB would increase to ~35% after a positive test and would decrease to ~2% after a negative test. It is worth noting that one study conducted in South Africa in people up to 20 years of age (median 11 years) contributed 99% of the screens included in the analysis.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3802",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of the World Health Organization (WHO) four\u2010symptom screen for active pulmonary tuberculosis (TB) in children with HIV?",
+            "topic1": [
+                "child health",
+                "infectious disease",
+                "lungs airways"
+            ],
+            "topic2": [
+                "respiratory infections"
+            ],
+            "year": 2021,
+            "author": "Burch, Jane; Taoum, Katia El"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3551",
+            "question": "For people with acute deep vein thrombosis (DVT), what are the benefits and harms of thrombolysis?",
+            "gold_answer": "Moderate\u2010certainty evidence shows that the incidence of post\u2010thrombotic syndrome would probably be lower with thrombolysis (377 vs 482 per 1000 people; all results on average) and complete clot lysis at 6 to 60 months would probably be higher (291 vs 120 per 1000 people) compared with placebo/no thrombolysis, but the number of people with bleeding complications at 1 month would probably be slightly higher (7 vs 3 per 1000 people); results for all three analyses were imprecise. Overall, thrombolysis may also improve the incidence of venous patency at 1 month (413 vs 167 per 1000 people) and complete clot lysis at 1 month (238 vs 50 per 1000 people). Incidences of stroke/intracerebral hemorrhage and mortality were low, and results for these outcomes were imprecise.",
+            "gold_answer_terms": "Moderate\u2010certainty evidence shows that the incidence of post\u2010thrombotic syndrome would probably be lower with thrombolysis (377 vs 482 per 1000 people; all results on average) and complete clot lysis at 6 to 60 months would probably be higher (291 vs 120 per 1000 people) compared with placebo/no thrombolysis, but the number of people with bleeding complications at 1 month would probably be slightly higher (7 vs 3 per 1000 people); results for all three analyses were imprecise. Overall, thrombolysis may also improve the incidence of venous patency at 1 month (413 vs 167 per 1000 people) and complete clot lysis at 1 month (238 vs 50 per 1000 people). Incidences of stroke/intracerebral hemorrhage and mortality were low, and results for these outcomes were imprecise.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3551",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people with acute deep vein thrombosis (DVT), what are the benefits and harms of thrombolysis?",
+            "topic1": [
+                "heart circulation"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Yadava, Mrinal"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3551",
+            "question": "For people with acute deep vein thrombosis (DVT), what are the benefits and harms of thrombolysis?",
+            "gold_answer": "Moderate\u2010certainty evidence shows that the incidence of post\u2010thrombotic syndrome would probably be lower with thrombolysis (377 vs 482 per 1000 people; all results on average) and complete clot lysis at 6 to 60 months would probably be higher (291 vs 120 per 1000 people) compared with placebo/no thrombolysis, but the number of people with bleeding complications at 1 month would probably be slightly higher (7 vs 3 per 1000 people); results for all three analyses were imprecise. Overall, thrombolysis may also improve the incidence of venous patency at 1 month (413 vs 167 per 1000 people) and complete clot lysis at 1 month (238 vs 50 per 1000 people). Incidences of stroke/intracerebral hemorrhage and mortality were low, and results for these outcomes were imprecise.",
+            "gold_answer_terms": "Moderate\u2010certainty evidence shows that the incidence of post\u2010thrombotic syndrome would probably be lower with thrombolysis (377 vs 482 per 1000 people; all results on average) and complete clot lysis at 6 to 60 months would probably be higher (291 vs 120 per 1000 people) compared with placebo/no thrombolysis, but the number of people with bleeding complications at 1 month would probably be slightly higher (7 vs 3 per 1000 people); results for all three analyses were imprecise. Overall, thrombolysis may also improve the incidence of venous patency at 1 month (413 vs 167 per 1000 people) and complete clot lysis at 1 month (238 vs 50 per 1000 people). Incidences of stroke/intracerebral hemorrhage and mortality were low, and results for these outcomes were imprecise.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3551",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people with acute deep vein thrombosis (DVT), what are the benefits and harms of thrombolysis?",
+            "topic1": [
+                "heart circulation"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Yadava, Mrinal"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3551",
+            "question": "For people with acute deep vein thrombosis (DVT), what are the benefits and harms of thrombolysis?",
+            "gold_answer": "Moderate\u2010certainty evidence shows that the incidence of post\u2010thrombotic syndrome would probably be lower with thrombolysis (377 vs 482 per 1000 people; all results on average) and complete clot lysis at 6 to 60 months would probably be higher (291 vs 120 per 1000 people) compared with placebo/no thrombolysis, but the number of people with bleeding complications at 1 month would probably be slightly higher (7 vs 3 per 1000 people); results for all three analyses were imprecise. Overall, thrombolysis may also improve the incidence of venous patency at 1 month (413 vs 167 per 1000 people) and complete clot lysis at 1 month (238 vs 50 per 1000 people). Incidences of stroke/intracerebral hemorrhage and mortality were low, and results for these outcomes were imprecise.",
+            "gold_answer_terms": "Moderate\u2010certainty evidence shows that the incidence of post\u2010thrombotic syndrome would probably be lower with thrombolysis (377 vs 482 per 1000 people; all results on average) and complete clot lysis at 6 to 60 months would probably be higher (291 vs 120 per 1000 people) compared with placebo/no thrombolysis, but the number of people with bleeding complications at 1 month would probably be slightly higher (7 vs 3 per 1000 people); results for all three analyses were imprecise. Overall, thrombolysis may also improve the incidence of venous patency at 1 month (413 vs 167 per 1000 people) and complete clot lysis at 1 month (238 vs 50 per 1000 people). Incidences of stroke/intracerebral hemorrhage and mortality were low, and results for these outcomes were imprecise.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3551",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people with acute deep vein thrombosis (DVT), what are the benefits and harms of thrombolysis?",
+            "topic1": [
+                "heart circulation"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Yadava, Mrinal"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3414",
+            "question": "What is the accuracy of procalcitonin (PCT), C\u2010reactive protein (CRP), and erythrocyte sedimentation rate (ESR) for the diagnosis of acute pyelonephritis in children?",
+            "gold_answer": "When acute\u2010phase 99Tc\u2010dimercaptosuccinic acid scan (DMSA) was used within 30 days of a urinary tract infection (UTI) as the reference standard for the diagnosis of acute pyelonephritis in children, pooled estimates of sensitivity and specificity were 81% and 76% for PCT, 93% and 37% for CRP, and 83% and 57% for ESR, respectively. Based on these estimates and prevalence of 60%, the number of children wrongly diagnosed with acute pyelonephritis for every 1000 children tested would be 96 with PCT, 252 with CRP, and 172 with ESR. The number of children with acute pyelonephritis missed would be 114 with PCT, 42 with CRP, and 102 with ESR. Reviewers stated that heterogeneity between included studies was very high, reducing confidence in the pooled estimates.\u00a0For information relating to the calculation and interpretation of sensitivity, specificity, normalized frequencies, and likelihood ratios, click here .",
+            "gold_answer_terms": "When acute\u2010phase 99Tc\u2010dimercaptosuccinic acid scan (DMSA) was used within 30 days of a urinary tract infection (UTI) as the reference standard for the diagnosis of acute pyelonephritis in children, pooled estimates of sensitivity and specificity were 81% and 76% for PCT, 93% and 37% for CRP, and 83% and 57% for ESR, respectively. Based on these estimates and prevalence of 60%, the number of children wrongly diagnosed with acute pyelonephritis for every 1000 children tested would be 96 with PCT, 252 with CRP, and 172 with ESR. The number of children with acute pyelonephritis missed would be 114 with PCT, 42 with CRP, and 102 with ESR. Reviewers stated that heterogeneity between included studies was very high, reducing confidence in the pooled estimates.\u00a0For information relating to the calculation and interpretation of sensitivity, specificity, normalized frequencies, and likelihood ratios, click here .",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3414",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of procalcitonin (PCT), C\u2010reactive protein (CRP), and erythrocyte sedimentation rate (ESR) for the diagnosis of acute pyelonephritis in children?",
+            "topic1": [
+                "child health",
+                "kidney disease",
+                "infectious disease"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Hodson, Elisabeth"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3414",
+            "question": "What is the accuracy of procalcitonin (PCT), C\u2010reactive protein (CRP), and erythrocyte sedimentation rate (ESR) for the diagnosis of acute pyelonephritis in children?",
+            "gold_answer": "When acute\u2010phase 99Tc\u2010dimercaptosuccinic acid scan (DMSA) was used within 30 days of a urinary tract infection (UTI) as the reference standard for the diagnosis of acute pyelonephritis in children, pooled estimates of sensitivity and specificity were 81% and 76% for PCT, 93% and 37% for CRP, and 83% and 57% for ESR, respectively. Based on these estimates and prevalence of 60%, the number of children wrongly diagnosed with acute pyelonephritis for every 1000 children tested would be 96 with PCT, 252 with CRP, and 172 with ESR. The number of children with acute pyelonephritis missed would be 114 with PCT, 42 with CRP, and 102 with ESR. Reviewers stated that heterogeneity between included studies was very high, reducing confidence in the pooled estimates.\u00a0For information relating to the calculation and interpretation of sensitivity, specificity, normalized frequencies, and likelihood ratios, click here .",
+            "gold_answer_terms": "When acute\u2010phase 99Tc\u2010dimercaptosuccinic acid scan (DMSA) was used within 30 days of a urinary tract infection (UTI) as the reference standard for the diagnosis of acute pyelonephritis in children, pooled estimates of sensitivity and specificity were 81% and 76% for PCT, 93% and 37% for CRP, and 83% and 57% for ESR, respectively. Based on these estimates and prevalence of 60%, the number of children wrongly diagnosed with acute pyelonephritis for every 1000 children tested would be 96 with PCT, 252 with CRP, and 172 with ESR. The number of children with acute pyelonephritis missed would be 114 with PCT, 42 with CRP, and 102 with ESR. Reviewers stated that heterogeneity between included studies was very high, reducing confidence in the pooled estimates.\u00a0For information relating to the calculation and interpretation of sensitivity, specificity, normalized frequencies, and likelihood ratios, click here .",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3414",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of procalcitonin (PCT), C\u2010reactive protein (CRP), and erythrocyte sedimentation rate (ESR) for the diagnosis of acute pyelonephritis in children?",
+            "topic1": [
+                "child health",
+                "kidney disease",
+                "infectious disease"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Hodson, Elisabeth"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3414",
+            "question": "What is the accuracy of procalcitonin (PCT), C\u2010reactive protein (CRP), and erythrocyte sedimentation rate (ESR) for the diagnosis of acute pyelonephritis in children?",
+            "gold_answer": "When acute\u2010phase 99Tc\u2010dimercaptosuccinic acid scan (DMSA) was used within 30 days of a urinary tract infection (UTI) as the reference standard for the diagnosis of acute pyelonephritis in children, pooled estimates of sensitivity and specificity were 81% and 76% for PCT, 93% and 37% for CRP, and 83% and 57% for ESR, respectively. Based on these estimates and prevalence of 60%, the number of children wrongly diagnosed with acute pyelonephritis for every 1000 children tested would be 96 with PCT, 252 with CRP, and 172 with ESR. The number of children with acute pyelonephritis missed would be 114 with PCT, 42 with CRP, and 102 with ESR. Reviewers stated that heterogeneity between included studies was very high, reducing confidence in the pooled estimates.\u00a0For information relating to the calculation and interpretation of sensitivity, specificity, normalized frequencies, and likelihood ratios, click here .",
+            "gold_answer_terms": "When acute\u2010phase 99Tc\u2010dimercaptosuccinic acid scan (DMSA) was used within 30 days of a urinary tract infection (UTI) as the reference standard for the diagnosis of acute pyelonephritis in children, pooled estimates of sensitivity and specificity were 81% and 76% for PCT, 93% and 37% for CRP, and 83% and 57% for ESR, respectively. Based on these estimates and prevalence of 60%, the number of children wrongly diagnosed with acute pyelonephritis for every 1000 children tested would be 96 with PCT, 252 with CRP, and 172 with ESR. The number of children with acute pyelonephritis missed would be 114 with PCT, 42 with CRP, and 102 with ESR. Reviewers stated that heterogeneity between included studies was very high, reducing confidence in the pooled estimates.\u00a0For information relating to the calculation and interpretation of sensitivity, specificity, normalized frequencies, and likelihood ratios, click here .",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3414",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: What is the accuracy of procalcitonin (PCT), C\u2010reactive protein (CRP), and erythrocyte sedimentation rate (ESR) for the diagnosis of acute pyelonephritis in children?",
+            "topic1": [
+                "child health",
+                "kidney disease",
+                "infectious disease"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Hodson, Elisabeth"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3697",
+            "question": "For high\u2010risk adults, what is the accuracy of Xpert MTB/RIF for the diagnosis of pulmonary tuberculosis (TB) regardless of signs and symptoms?",
+            "gold_answer": "For high\u2010risk adults (most individuals with HIV, miners, or prisoners; TB prevalence ranging from 2% to 31%), with or without symptoms, sensitivity of Xpert MTB/RIF for the diagnosis of pulmonary TB ranged from 33% to 100%, and specificity from 92% to 100%. Reviewers calculated pooled estimates of sensitivity and specificity for a range of subgroups. The non\u2010hospitalized high\u2010risk population of miners, prisoners, and household contacts of patients with TB had an overall sensitivity of 69.4% (low\u2010certainty evidence) and specificity of 98.8% (moderate\u2010certainty evidence). Sensitivity and specificity for people living with HIV were 61.8% and 98.9% overall (moderate\u2010 and high\u2010certainty evidence, respectively); estimates by prevalence of symptoms were 62.9% and 98.7% when \u2265 50% had symptoms, and 61.1% and 99.1% when < 50% had symptoms. On average, at a prevalence of 2% among non\u2010hospitalized people, 12 people could be wrongly diagnosed with pulmonary TB and 6 cases could be missed. At a prevalence of 10% among people with HIV (regardless of the proportion with symptoms), 9 people could be wrongly diagnosed with pulmonary TB and 38 cases could be missed. Positive likelihood ratios were high, with the probability of pulmonary TB increasing after a positive test, from 2% to 53% for non\u2010hospitalized people, and from 10% to 85% for people with HIV.",
+            "gold_answer_terms": "For high\u2010risk adults (most individuals with HIV, miners, or prisoners; TB prevalence ranging from 2% to 31%), with or without symptoms, sensitivity of Xpert MTB/RIF for the diagnosis of pulmonary TB ranged from 33% to 100%, and specificity from 92% to 100%. Reviewers calculated pooled estimates of sensitivity and specificity for a range of subgroups. The non\u2010hospitalized high\u2010risk population of miners, prisoners, and household contacts of patients with TB had an overall sensitivity of 69.4% (low\u2010certainty evidence) and specificity of 98.8% (moderate\u2010certainty evidence). Sensitivity and specificity for people living with HIV were 61.8% and 98.9% overall (moderate\u2010 and high\u2010certainty evidence, respectively); estimates by prevalence of symptoms were 62.9% and 98.7% when \u2265 50% had symptoms, and 61.1% and 99.1% when < 50% had symptoms. On average, at a prevalence of 2% among non\u2010hospitalized people, 12 people could be wrongly diagnosed with pulmonary TB and 6 cases could be missed. At a prevalence of 10% among people with HIV (regardless of the proportion with symptoms), 9 people could be wrongly diagnosed with pulmonary TB and 38 cases could be missed. Positive likelihood ratios were high, with the probability of pulmonary TB increasing after a positive test, from 2% to 53% for non\u2010hospitalized people, and from 10% to 85% for people with HIV.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3697",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For high\u2010risk adults, what is the accuracy of Xpert MTB/RIF for the diagnosis of pulmonary tuberculosis (TB) regardless of signs and symptoms?",
+            "topic1": [
+                "infectious disease"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Bhat, Smitha"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3697",
+            "question": "For high\u2010risk adults, what is the accuracy of Xpert MTB/RIF for the diagnosis of pulmonary tuberculosis (TB) regardless of signs and symptoms?",
+            "gold_answer": "For high\u2010risk adults (most individuals with HIV, miners, or prisoners; TB prevalence ranging from 2% to 31%), with or without symptoms, sensitivity of Xpert MTB/RIF for the diagnosis of pulmonary TB ranged from 33% to 100%, and specificity from 92% to 100%. Reviewers calculated pooled estimates of sensitivity and specificity for a range of subgroups. The non\u2010hospitalized high\u2010risk population of miners, prisoners, and household contacts of patients with TB had an overall sensitivity of 69.4% (low\u2010certainty evidence) and specificity of 98.8% (moderate\u2010certainty evidence). Sensitivity and specificity for people living with HIV were 61.8% and 98.9% overall (moderate\u2010 and high\u2010certainty evidence, respectively); estimates by prevalence of symptoms were 62.9% and 98.7% when \u2265 50% had symptoms, and 61.1% and 99.1% when < 50% had symptoms. On average, at a prevalence of 2% among non\u2010hospitalized people, 12 people could be wrongly diagnosed with pulmonary TB and 6 cases could be missed. At a prevalence of 10% among people with HIV (regardless of the proportion with symptoms), 9 people could be wrongly diagnosed with pulmonary TB and 38 cases could be missed. Positive likelihood ratios were high, with the probability of pulmonary TB increasing after a positive test, from 2% to 53% for non\u2010hospitalized people, and from 10% to 85% for people with HIV.",
+            "gold_answer_terms": "For high\u2010risk adults (most individuals with HIV, miners, or prisoners; TB prevalence ranging from 2% to 31%), with or without symptoms, sensitivity of Xpert MTB/RIF for the diagnosis of pulmonary TB ranged from 33% to 100%, and specificity from 92% to 100%. Reviewers calculated pooled estimates of sensitivity and specificity for a range of subgroups. The non\u2010hospitalized high\u2010risk population of miners, prisoners, and household contacts of patients with TB had an overall sensitivity of 69.4% (low\u2010certainty evidence) and specificity of 98.8% (moderate\u2010certainty evidence). Sensitivity and specificity for people living with HIV were 61.8% and 98.9% overall (moderate\u2010 and high\u2010certainty evidence, respectively); estimates by prevalence of symptoms were 62.9% and 98.7% when \u2265 50% had symptoms, and 61.1% and 99.1% when < 50% had symptoms. On average, at a prevalence of 2% among non\u2010hospitalized people, 12 people could be wrongly diagnosed with pulmonary TB and 6 cases could be missed. At a prevalence of 10% among people with HIV (regardless of the proportion with symptoms), 9 people could be wrongly diagnosed with pulmonary TB and 38 cases could be missed. Positive likelihood ratios were high, with the probability of pulmonary TB increasing after a positive test, from 2% to 53% for non\u2010hospitalized people, and from 10% to 85% for people with HIV.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3697",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For high\u2010risk adults, what is the accuracy of Xpert MTB/RIF for the diagnosis of pulmonary tuberculosis (TB) regardless of signs and symptoms?",
+            "topic1": [
+                "infectious disease"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Bhat, Smitha"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.3697",
+            "question": "For high\u2010risk adults, what is the accuracy of Xpert MTB/RIF for the diagnosis of pulmonary tuberculosis (TB) regardless of signs and symptoms?",
+            "gold_answer": "For high\u2010risk adults (most individuals with HIV, miners, or prisoners; TB prevalence ranging from 2% to 31%), with or without symptoms, sensitivity of Xpert MTB/RIF for the diagnosis of pulmonary TB ranged from 33% to 100%, and specificity from 92% to 100%. Reviewers calculated pooled estimates of sensitivity and specificity for a range of subgroups. The non\u2010hospitalized high\u2010risk population of miners, prisoners, and household contacts of patients with TB had an overall sensitivity of 69.4% (low\u2010certainty evidence) and specificity of 98.8% (moderate\u2010certainty evidence). Sensitivity and specificity for people living with HIV were 61.8% and 98.9% overall (moderate\u2010 and high\u2010certainty evidence, respectively); estimates by prevalence of symptoms were 62.9% and 98.7% when \u2265 50% had symptoms, and 61.1% and 99.1% when < 50% had symptoms. On average, at a prevalence of 2% among non\u2010hospitalized people, 12 people could be wrongly diagnosed with pulmonary TB and 6 cases could be missed. At a prevalence of 10% among people with HIV (regardless of the proportion with symptoms), 9 people could be wrongly diagnosed with pulmonary TB and 38 cases could be missed. Positive likelihood ratios were high, with the probability of pulmonary TB increasing after a positive test, from 2% to 53% for non\u2010hospitalized people, and from 10% to 85% for people with HIV.",
+            "gold_answer_terms": "For high\u2010risk adults (most individuals with HIV, miners, or prisoners; TB prevalence ranging from 2% to 31%), with or without symptoms, sensitivity of Xpert MTB/RIF for the diagnosis of pulmonary TB ranged from 33% to 100%, and specificity from 92% to 100%. Reviewers calculated pooled estimates of sensitivity and specificity for a range of subgroups. The non\u2010hospitalized high\u2010risk population of miners, prisoners, and household contacts of patients with TB had an overall sensitivity of 69.4% (low\u2010certainty evidence) and specificity of 98.8% (moderate\u2010certainty evidence). Sensitivity and specificity for people living with HIV were 61.8% and 98.9% overall (moderate\u2010 and high\u2010certainty evidence, respectively); estimates by prevalence of symptoms were 62.9% and 98.7% when \u2265 50% had symptoms, and 61.1% and 99.1% when < 50% had symptoms. On average, at a prevalence of 2% among non\u2010hospitalized people, 12 people could be wrongly diagnosed with pulmonary TB and 6 cases could be missed. At a prevalence of 10% among people with HIV (regardless of the proportion with symptoms), 9 people could be wrongly diagnosed with pulmonary TB and 38 cases could be missed. Positive likelihood ratios were high, with the probability of pulmonary TB increasing after a positive test, from 2% to 53% for non\u2010hospitalized people, and from 10% to 85% for people with HIV.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.3697",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For high\u2010risk adults, what is the accuracy of Xpert MTB/RIF for the diagnosis of pulmonary tuberculosis (TB) regardless of signs and symptoms?",
+            "topic1": [
+                "infectious disease"
+            ],
+            "topic2": [],
+            "year": 2021,
+            "author": "Burch, Jane; Bhat, Smitha"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4152",
+            "question": "For people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, what are the benefits and harms of remdesivir?",
+            "gold_answer": "Moderate\u2010certainty evidence shows that for people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, remdesivir probably results in fewer people experiencing clinical worsening within 28 days (18 vs 64 per 1000 people; all results on average) and in little to no difference in rates of any\u2010grade adverse events when compared with placebo or no treatment. Low\u2010certainty evidence suggests that fewer people may experience serious adverse events (18 vs 67 per 1000 people) with remdesivir than with placebo or no treatment. There were no deaths in either group up to day 28, and the evidence regarding clinical improvement up to day 14 was very uncertain. No trial reported quality of life.",
+            "gold_answer_terms": "Moderate\u2010certainty evidence shows that for people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, remdesivir probably results in fewer people experiencing clinical worsening within 28 days (18 vs 64 per 1000 people; all results on average) and in little to no difference in rates of any\u2010grade adverse events when compared with placebo or no treatment. Low\u2010certainty evidence suggests that fewer people may experience serious adverse events (18 vs 67 per 1000 people) with remdesivir than with placebo or no treatment. There were no deaths in either group up to day 28, and the evidence regarding clinical improvement up to day 14 was very uncertain. No trial reported quality of life.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4152",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, what are the benefits and harms of remdesivir?",
+            "topic1": [
+                "infectious disease"
+            ],
+            "topic2": [
+                "Covid-19"
+            ],
+            "year": 2023,
+            "author": "Ciapponi, Agust\u00edn; Tort, Sera"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4152",
+            "question": "For people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, what are the benefits and harms of remdesivir?",
+            "gold_answer": "Moderate\u2010certainty evidence shows that for people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, remdesivir probably results in fewer people experiencing clinical worsening within 28 days (18 vs 64 per 1000 people; all results on average) and in little to no difference in rates of any\u2010grade adverse events when compared with placebo or no treatment. Low\u2010certainty evidence suggests that fewer people may experience serious adverse events (18 vs 67 per 1000 people) with remdesivir than with placebo or no treatment. There were no deaths in either group up to day 28, and the evidence regarding clinical improvement up to day 14 was very uncertain. No trial reported quality of life.",
+            "gold_answer_terms": "Moderate\u2010certainty evidence shows that for people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, remdesivir probably results in fewer people experiencing clinical worsening within 28 days (18 vs 64 per 1000 people; all results on average) and in little to no difference in rates of any\u2010grade adverse events when compared with placebo or no treatment. Low\u2010certainty evidence suggests that fewer people may experience serious adverse events (18 vs 67 per 1000 people) with remdesivir than with placebo or no treatment. There were no deaths in either group up to day 28, and the evidence regarding clinical improvement up to day 14 was very uncertain. No trial reported quality of life.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4152",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, what are the benefits and harms of remdesivir?",
+            "topic1": [
+                "infectious disease"
+            ],
+            "topic2": [
+                "Covid-19"
+            ],
+            "year": 2023,
+            "author": "Ciapponi, Agust\u00edn; Tort, Sera"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.4152",
+            "question": "For people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, what are the benefits and harms of remdesivir?",
+            "gold_answer": "Moderate\u2010certainty evidence shows that for people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, remdesivir probably results in fewer people experiencing clinical worsening within 28 days (18 vs 64 per 1000 people; all results on average) and in little to no difference in rates of any\u2010grade adverse events when compared with placebo or no treatment. Low\u2010certainty evidence suggests that fewer people may experience serious adverse events (18 vs 67 per 1000 people) with remdesivir than with placebo or no treatment. There were no deaths in either group up to day 28, and the evidence regarding clinical improvement up to day 14 was very uncertain. No trial reported quality of life.",
+            "gold_answer_terms": "Moderate\u2010certainty evidence shows that for people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, remdesivir probably results in fewer people experiencing clinical worsening within 28 days (18 vs 64 per 1000 people; all results on average) and in little to no difference in rates of any\u2010grade adverse events when compared with placebo or no treatment. Low\u2010certainty evidence suggests that fewer people may experience serious adverse events (18 vs 67 per 1000 people) with remdesivir than with placebo or no treatment. There were no deaths in either group up to day 28, and the evidence regarding clinical improvement up to day 14 was very uncertain. No trial reported quality of life.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.4152",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: For people with asymptomatic SARS\u2010CoV\u20102 infection or mild COVID\u201019, what are the benefits and harms of remdesivir?",
+            "topic1": [
+                "infectious disease"
+            ],
+            "topic2": [
+                "Covid-19"
+            ],
+            "year": 2023,
+            "author": "Ciapponi, Agust\u00edn; Tort, Sera"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.2985",
+            "question": "Which interventions improve vaccination uptake among adolescents?",
+            "gold_answer": "RCTs assessing a range of interventions to increase uptake of human papillomavirus (HPV) and hepatitis B vaccines provide inconclusive evidence as to whether these interventions were more effective than usual care; the range of interventions assessed and inconsistencies depending on the population and vaccine assessed mean that no firm conclusions can be drawn. High\u2010certainty evidence from the USA and from Sweden shows that uptake of HPV vaccination among adolescents is higher with health education than with usual practice such as health promotion media presentations (363 vs 254 per 1000 adolescents; all results on average). However, participants who received complex health education (in the form of a four\u2010lesson multi\u2010component intervention) had slightly lower rates of hepatitis B vaccine uptake compared with those who received standard government information brochures (738 vs 756 per 1000 adolescents; moderate\u2010certainty evidence). Low\u2010certainty evidence from the United Kingdom suggests that financial incentives given to participants on completion of the HPV vaccine course resulted in better vaccine uptake than invitations provided with information leaflets (284 vs 196 per 1000 adolescents). Very low\u2010certainty evidence from the USA suggests that financial incentives in addition to health education may result in better uptake of hepatitis B vaccination than usual care (623 vs 451 per 1000 adolescents); however, the analysis was underpowered, so differences between groups did not reach statistical significance. Moderate\u2010certainty evidence from the USA shows that a policy for mandatory vaccination resulted in better uptake of hepatitis B vaccination (728 vs 186 per 1000 adolescents). In schools In Tanzania, making the mandatory vaccination class\u2010based rather than age\u2010based resulted in better HPV vaccine uptake (787 vs 721 per 1000 adolescents). A single RCT assessing provider prompts compared with usual care could not draw conclusions, as key outcomes were not assessed. Low\u2010certainty evidence suggests that HPV vaccine uptake was higher with multi\u2010component provider and parent interventions when compared with usual care, but differences between groups did not reach statistical significance and the analysis was underpowered, so no conclusions can be drawn. No RCTs assessed effects of interventions on vaccine\u2010preventable diseases or on vaccine\u2010related adverse events.",
+            "gold_answer_terms": "RCTs assessing a range of interventions to increase uptake of human papillomavirus (HPV) and hepatitis B vaccines provide inconclusive evidence as to whether these interventions were more effective than usual care; the range of interventions assessed and inconsistencies depending on the population and vaccine assessed mean that no firm conclusions can be drawn. High\u2010certainty evidence from the USA and from Sweden shows that uptake of HPV vaccination among adolescents is higher with health education than with usual practice such as health promotion media presentations (363 vs 254 per 1000 adolescents; all results on average). However, participants who received complex health education (in the form of a four\u2010lesson multi\u2010component intervention) had slightly lower rates of hepatitis B vaccine uptake compared with those who received standard government information brochures (738 vs 756 per 1000 adolescents; moderate\u2010certainty evidence). Low\u2010certainty evidence from the United Kingdom suggests that financial incentives given to participants on completion of the HPV vaccine course resulted in better vaccine uptake than invitations provided with information leaflets (284 vs 196 per 1000 adolescents). Very low\u2010certainty evidence from the USA suggests that financial incentives in addition to health education may result in better uptake of hepatitis B vaccination than usual care (623 vs 451 per 1000 adolescents); however, the analysis was underpowered, so differences between groups did not reach statistical significance. Moderate\u2010certainty evidence from the USA shows that a policy for mandatory vaccination resulted in better uptake of hepatitis B vaccination (728 vs 186 per 1000 adolescents). In schools In Tanzania, making the mandatory vaccination class\u2010based rather than age\u2010based resulted in better HPV vaccine uptake (787 vs 721 per 1000 adolescents). A single RCT assessing provider prompts compared with usual care could not draw conclusions, as key outcomes were not assessed. Low\u2010certainty evidence suggests that HPV vaccine uptake was higher with multi\u2010component provider and parent interventions when compared with usual care, but differences between groups did not reach statistical significance and the analysis was underpowered, so no conclusions can be drawn. No RCTs assessed effects of interventions on vaccine\u2010preventable diseases or on vaccine\u2010related adverse events.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.2985",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: Which interventions improve vaccination uptake among adolescents?",
+            "topic1": [
+                "child health",
+                "infectious disease",
+                "lungs airways"
+            ],
+            "topic2": [
+                "respiratory infections"
+            ],
+            "year": 2021,
+            "author": "Bhat, Smitha"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.2985",
+            "question": "Which interventions improve vaccination uptake among adolescents?",
+            "gold_answer": "RCTs assessing a range of interventions to increase uptake of human papillomavirus (HPV) and hepatitis B vaccines provide inconclusive evidence as to whether these interventions were more effective than usual care; the range of interventions assessed and inconsistencies depending on the population and vaccine assessed mean that no firm conclusions can be drawn. High\u2010certainty evidence from the USA and from Sweden shows that uptake of HPV vaccination among adolescents is higher with health education than with usual practice such as health promotion media presentations (363 vs 254 per 1000 adolescents; all results on average). However, participants who received complex health education (in the form of a four\u2010lesson multi\u2010component intervention) had slightly lower rates of hepatitis B vaccine uptake compared with those who received standard government information brochures (738 vs 756 per 1000 adolescents; moderate\u2010certainty evidence). Low\u2010certainty evidence from the United Kingdom suggests that financial incentives given to participants on completion of the HPV vaccine course resulted in better vaccine uptake than invitations provided with information leaflets (284 vs 196 per 1000 adolescents). Very low\u2010certainty evidence from the USA suggests that financial incentives in addition to health education may result in better uptake of hepatitis B vaccination than usual care (623 vs 451 per 1000 adolescents); however, the analysis was underpowered, so differences between groups did not reach statistical significance. Moderate\u2010certainty evidence from the USA shows that a policy for mandatory vaccination resulted in better uptake of hepatitis B vaccination (728 vs 186 per 1000 adolescents). In schools In Tanzania, making the mandatory vaccination class\u2010based rather than age\u2010based resulted in better HPV vaccine uptake (787 vs 721 per 1000 adolescents). A single RCT assessing provider prompts compared with usual care could not draw conclusions, as key outcomes were not assessed. Low\u2010certainty evidence suggests that HPV vaccine uptake was higher with multi\u2010component provider and parent interventions when compared with usual care, but differences between groups did not reach statistical significance and the analysis was underpowered, so no conclusions can be drawn. No RCTs assessed effects of interventions on vaccine\u2010preventable diseases or on vaccine\u2010related adverse events.",
+            "gold_answer_terms": "RCTs assessing a range of interventions to increase uptake of human papillomavirus (HPV) and hepatitis B vaccines provide inconclusive evidence as to whether these interventions were more effective than usual care; the range of interventions assessed and inconsistencies depending on the population and vaccine assessed mean that no firm conclusions can be drawn. High\u2010certainty evidence from the USA and from Sweden shows that uptake of HPV vaccination among adolescents is higher with health education than with usual practice such as health promotion media presentations (363 vs 254 per 1000 adolescents; all results on average). However, participants who received complex health education (in the form of a four\u2010lesson multi\u2010component intervention) had slightly lower rates of hepatitis B vaccine uptake compared with those who received standard government information brochures (738 vs 756 per 1000 adolescents; moderate\u2010certainty evidence). Low\u2010certainty evidence from the United Kingdom suggests that financial incentives given to participants on completion of the HPV vaccine course resulted in better vaccine uptake than invitations provided with information leaflets (284 vs 196 per 1000 adolescents). Very low\u2010certainty evidence from the USA suggests that financial incentives in addition to health education may result in better uptake of hepatitis B vaccination than usual care (623 vs 451 per 1000 adolescents); however, the analysis was underpowered, so differences between groups did not reach statistical significance. Moderate\u2010certainty evidence from the USA shows that a policy for mandatory vaccination resulted in better uptake of hepatitis B vaccination (728 vs 186 per 1000 adolescents). In schools In Tanzania, making the mandatory vaccination class\u2010based rather than age\u2010based resulted in better HPV vaccine uptake (787 vs 721 per 1000 adolescents). A single RCT assessing provider prompts compared with usual care could not draw conclusions, as key outcomes were not assessed. Low\u2010certainty evidence suggests that HPV vaccine uptake was higher with multi\u2010component provider and parent interventions when compared with usual care, but differences between groups did not reach statistical significance and the analysis was underpowered, so no conclusions can be drawn. No RCTs assessed effects of interventions on vaccine\u2010preventable diseases or on vaccine\u2010related adverse events.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.2985",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: Which interventions improve vaccination uptake among adolescents?",
+            "topic1": [
+                "child health",
+                "infectious disease",
+                "lungs airways"
+            ],
+            "topic2": [
+                "respiratory infections"
+            ],
+            "year": 2021,
+            "author": "Bhat, Smitha"
+        }
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.2985",
+            "question": "Which interventions improve vaccination uptake among adolescents?",
+            "gold_answer": "RCTs assessing a range of interventions to increase uptake of human papillomavirus (HPV) and hepatitis B vaccines provide inconclusive evidence as to whether these interventions were more effective than usual care; the range of interventions assessed and inconsistencies depending on the population and vaccine assessed mean that no firm conclusions can be drawn. High\u2010certainty evidence from the USA and from Sweden shows that uptake of HPV vaccination among adolescents is higher with health education than with usual practice such as health promotion media presentations (363 vs 254 per 1000 adolescents; all results on average). However, participants who received complex health education (in the form of a four\u2010lesson multi\u2010component intervention) had slightly lower rates of hepatitis B vaccine uptake compared with those who received standard government information brochures (738 vs 756 per 1000 adolescents; moderate\u2010certainty evidence). Low\u2010certainty evidence from the United Kingdom suggests that financial incentives given to participants on completion of the HPV vaccine course resulted in better vaccine uptake than invitations provided with information leaflets (284 vs 196 per 1000 adolescents). Very low\u2010certainty evidence from the USA suggests that financial incentives in addition to health education may result in better uptake of hepatitis B vaccination than usual care (623 vs 451 per 1000 adolescents); however, the analysis was underpowered, so differences between groups did not reach statistical significance. Moderate\u2010certainty evidence from the USA shows that a policy for mandatory vaccination resulted in better uptake of hepatitis B vaccination (728 vs 186 per 1000 adolescents). In schools In Tanzania, making the mandatory vaccination class\u2010based rather than age\u2010based resulted in better HPV vaccine uptake (787 vs 721 per 1000 adolescents). A single RCT assessing provider prompts compared with usual care could not draw conclusions, as key outcomes were not assessed. Low\u2010certainty evidence suggests that HPV vaccine uptake was higher with multi\u2010component provider and parent interventions when compared with usual care, but differences between groups did not reach statistical significance and the analysis was underpowered, so no conclusions can be drawn. No RCTs assessed effects of interventions on vaccine\u2010preventable diseases or on vaccine\u2010related adverse events.",
+            "gold_answer_terms": "RCTs assessing a range of interventions to increase uptake of human papillomavirus (HPV) and hepatitis B vaccines provide inconclusive evidence as to whether these interventions were more effective than usual care; the range of interventions assessed and inconsistencies depending on the population and vaccine assessed mean that no firm conclusions can be drawn. High\u2010certainty evidence from the USA and from Sweden shows that uptake of HPV vaccination among adolescents is higher with health education than with usual practice such as health promotion media presentations (363 vs 254 per 1000 adolescents; all results on average). However, participants who received complex health education (in the form of a four\u2010lesson multi\u2010component intervention) had slightly lower rates of hepatitis B vaccine uptake compared with those who received standard government information brochures (738 vs 756 per 1000 adolescents; moderate\u2010certainty evidence). Low\u2010certainty evidence from the United Kingdom suggests that financial incentives given to participants on completion of the HPV vaccine course resulted in better vaccine uptake than invitations provided with information leaflets (284 vs 196 per 1000 adolescents). Very low\u2010certainty evidence from the USA suggests that financial incentives in addition to health education may result in better uptake of hepatitis B vaccination than usual care (623 vs 451 per 1000 adolescents); however, the analysis was underpowered, so differences between groups did not reach statistical significance. Moderate\u2010certainty evidence from the USA shows that a policy for mandatory vaccination resulted in better uptake of hepatitis B vaccination (728 vs 186 per 1000 adolescents). In schools In Tanzania, making the mandatory vaccination class\u2010based rather than age\u2010based resulted in better HPV vaccine uptake (787 vs 721 per 1000 adolescents). A single RCT assessing provider prompts compared with usual care could not draw conclusions, as key outcomes were not assessed. Low\u2010certainty evidence suggests that HPV vaccine uptake was higher with multi\u2010component provider and parent interventions when compared with usual care, but differences between groups did not reach statistical significance and the analysis was underpowered, so no conclusions can be drawn. No RCTs assessed effects of interventions on vaccine\u2010preventable diseases or on vaccine\u2010related adverse events.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.2985",
+            "llm_answer": "placeholder, please get the answer through the chatbot",
+            "llm_answer_ref": "",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "llm_model_prompt": "Provide a concise answer for the following question: Which interventions improve vaccination uptake among adolescents?",
+            "topic1": [
+                "child health",
+                "infectious disease",
+                "lungs airways"
+            ],
+            "topic2": [
+                "respiratory infections"
+            ],
+            "year": 2021,
+            "author": "Bhat, Smitha"
+        }
+    }
+]

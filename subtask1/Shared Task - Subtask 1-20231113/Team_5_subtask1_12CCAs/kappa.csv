@@ -1,0 +1,4 @@
+Team_5_student1ID,Team_5_student2ID,Overall Cohen kappa on question type,Overall Cohen kappa on sentence categories,Cohen kappa on contradiction,Cohen kappa on exaggeration,Cohen kappa on understatement,Cohen kappa on agree with the gold answer,Cohen kappa on cannot assess,Cohen kappa on general comment,Cohen kappa on harmfulness
+2277051,2314325,0.769230769,0.383181669,0.305807872,-0.049215792,-0.006920415,0.322984356,0.362471245,0.647747142,0.117647059
+2277051,2401157,0.213114754,0.294046988,0.322730799,0.117564731,-0.006920415,0.165930746,0.29871837,0.45160185,0.2
+2314325,2401157,0.213114754,0.192485884,0.112024825,-0.016298021,-0.010416667,0.268736142,0.094540323,0.407109538,0.272727273

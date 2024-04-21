@@ -1,0 +1,836 @@
+[
+    {
+        "data": {
+            "doi": "10.1002/cca.1143",
+            "question": "How do different support surfaces compare in terms of pressure ulcer prevention?",
+            "gold_answer": "Randomized controlled trial evidence suggests that specialist supports, overlays, mattresses and cushions may be beneficial in terms of pressure ulcer prevention compared with standard foam mattresses. The analyses comparing specialist supports with each other were often based on small numbers of participants from studies with unclear or poor methodology so conclusions could not be drawn. Compared with standard foam supports, overlays and mattresses, constant low\u2010pressure (CLP), alternating pressure (AP), or specialist supports, overlays and mattresses generally reduce the incidence of pressure ulcers in older adults in acute care settings, on general, orthopedic or rehabilitation wards, or in specialist units. Low air loss mattresses/beds also seemed to reduce the incidence of pressure sores compared with standard static mattress or intensive care unit (ICU) beds in adults in acute or long\u2010term care settings. Jay gel cushions were also beneficial in older adults in extended care facilities/nursing homes compared with standard foam cushions. When CLP and AP supports, overlays and mattresses were compared with each other (CLP versus CLP, AP versus AP, CLP versus AP), or when CLP and AP mattresses were compared with standard mattresses in patients during and after a stay in ICU, there were no apparent differences in pressure ulcer incidence between groups. A large number of the analyses comparing different non\u2010standard overlays and mattresses with each other were underpowered (often single trials with fewer than 100 patients), making it difficult either to detect differences between groups, or to have confidence in the results where differences between groups were detected. In addition, most of the studies at an unclear or high risk of bias in terms of participant selection and blinding of outcome assessors, further limiting confidence in the evidence.",
+            "gold_answer_terms": "TERM (term): Between 37 and 42 weeks of pregnancy.\nACUTE (acute): new, recent, sudden, urgent\nORTHOPEDIC (orthopedic): pertaining to the bones\nRISK (risk): The chance that an activity or hazard will give rise to harm. Risk is generally given in terms of numerical odds (1 in 10) or percentages (10%).",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.1143",
+            "llm_answer": "Different support surfaces, like mattresses and cushions, vary in their effectiveness for pressure ulcer prevention. Specialized pressure-relieving surfaces, such as alternating pressure mattresses or low-air-loss beds, tend to be more effective than standard mattresses or foam overlays. The choice should be based on individual patient needs, risk assessment, and clinical judgment. Consulting a healthcare provider is crucial for selecting the most appropriate support surface for pressure ulcer prevention.",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "topic1": "['skin disorders']",
+            "topic2": "[]",
+            "year": 2016,
+            "author": "Burch, Jane; Weller, Carolina D"
+        },
+        "predictions": [
+            {
+                "model_version": "0.1",
+                "score": 0.5,
+                "result": [
+                    {
+                        "id": "10-1002_cca-1143_ChatGPT_prompt0_answer",
+                        "from_name": "llm_answer_label_1",
+                        "to_name": "llm_answer_eval_1",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Valid"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_ChatGPT_prompt0_answer_sent0",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 0,
+                            "end": 116,
+                            "score": 0.5,
+                            "text": "Different support surfaces, like mattresses and cushions, vary in their effectiveness for pressure ulcer prevention.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_ChatGPT_prompt0_answer_sent1",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 117,
+                            "end": 288,
+                            "score": 0.5,
+                            "text": "Specialized pressure-relieving surfaces, such as alternating pressure mattresses or low-air-loss beds, tend to be more effective than standard mattresses or foam overlays.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_ChatGPT_prompt0_answer_sent2",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 289,
+                            "end": 384,
+                            "score": 0.5,
+                            "text": "The choice should be based on individual patient needs, risk assessment, and clinical judgment.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_ChatGPT_prompt0_answer_sent3",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 385,
+                            "end": 510,
+                            "score": 0.5,
+                            "text": "Consulting a healthcare provider is crucial for selecting the most appropriate support surface for pressure ulcer prevention.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.1143",
+            "question": "How do different support surfaces compare in terms of pressure ulcer prevention?",
+            "gold_answer": "Randomized controlled trial evidence suggests that specialist supports, overlays, mattresses and cushions may be beneficial in terms of pressure ulcer prevention compared with standard foam mattresses. The analyses comparing specialist supports with each other were often based on small numbers of participants from studies with unclear or poor methodology so conclusions could not be drawn. Compared with standard foam supports, overlays and mattresses, constant low\u2010pressure (CLP), alternating pressure (AP), or specialist supports, overlays and mattresses generally reduce the incidence of pressure ulcers in older adults in acute care settings, on general, orthopedic or rehabilitation wards, or in specialist units. Low air loss mattresses/beds also seemed to reduce the incidence of pressure sores compared with standard static mattress or intensive care unit (ICU) beds in adults in acute or long\u2010term care settings. Jay gel cushions were also beneficial in older adults in extended care facilities/nursing homes compared with standard foam cushions. When CLP and AP supports, overlays and mattresses were compared with each other (CLP versus CLP, AP versus AP, CLP versus AP), or when CLP and AP mattresses were compared with standard mattresses in patients during and after a stay in ICU, there were no apparent differences in pressure ulcer incidence between groups. A large number of the analyses comparing different non\u2010standard overlays and mattresses with each other were underpowered (often single trials with fewer than 100 patients), making it difficult either to detect differences between groups, or to have confidence in the results where differences between groups were detected. In addition, most of the studies at an unclear or high risk of bias in terms of participant selection and blinding of outcome assessors, further limiting confidence in the evidence.",
+            "gold_answer_terms": "TERM (term): Between 37 and 42 weeks of pregnancy.\nACUTE (acute): new, recent, sudden, urgent\nORTHOPEDIC (orthopedic): pertaining to the bones\nRISK (risk): The chance that an activity or hazard will give rise to harm. Risk is generally given in terms of numerical odds (1 in 10) or percentages (10%).",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.1143",
+            "llm_answer": "Different support surfaces have varying effects on pressure ulcer prevention:\n- **Powered Active Air Surfaces**: These surfaces probably reduce pressure ulcer incidence, but are probably less comfortable than standard hospital surfaces [1].\n- **Non-Powered Reactive Water Surfaces**: There is moderate certainty evidence that these surfaces are probably the most comfortable of those surfaces compared [1].\n- **Standard Hospital Mattress Memory Foams**: A study found that the proportion of patients who developed pressure ulcers was significantly higher in patients with standard hospital mattress memory foams (48.5%) compared with the Virtuoso group (18.8%) three days after ICU admission [2].\n- **Alternating-Pressure Mattresses**: These may be more cost-effective than alternating-pressure overlays in a UK context [3].\nHowever, the relative merits of higher-specification constant low-pressure and alternating-pressure support surfaces for preventing pressure ulcers are unclear [3]. The effectiveness can vary depending on individual patient characteristics and other factors. Therefore, it's always recommended to consult with healthcare professionals for personalized advice.",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "topic1": "['skin disorders']",
+            "topic2": "[]",
+            "year": 2016,
+            "author": "Burch, Jane; Weller, Carolina D"
+        },
+        "predictions": [
+            {
+                "model_version": "0.1",
+                "score": 0.5,
+                "result": [
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer",
+                        "from_name": "llm_answer_label_1",
+                        "to_name": "llm_answer_eval_1",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Valid"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent0",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 0,
+                            "end": 77,
+                            "score": 0.5,
+                            "text": "Different support surfaces have varying effects on pressure ulcer prevention:",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent1",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 78,
+                            "end": 240,
+                            "score": 0.5,
+                            "text": "- **Powered Active Air Surfaces**: These surfaces probably reduce pressure ulcer incidence, but are probably less comfortable than standard hospital surfaces [1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent2",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 241,
+                            "end": 406,
+                            "score": 0.5,
+                            "text": "- **Non-Powered Reactive Water Surfaces**: There is moderate certainty evidence that these surfaces are probably the most comfortable of those surfaces compared [1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent3",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 407,
+                            "end": 696,
+                            "score": 0.5,
+                            "text": "- **Standard Hospital Mattress Memory Foams**: A study found that the proportion of patients who developed pressure ulcers was significantly higher in patients with standard hospital mattress memory foams (48.5%) compared with the Virtuoso group (18.8%) three days after ICU admission [2].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent4",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 697,
+                            "end": 824,
+                            "score": 0.5,
+                            "text": "- **Alternating-Pressure Mattresses**: These may be more cost-effective than alternating-pressure overlays in a UK context [3].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent5",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 825,
+                            "end": 989,
+                            "score": 0.5,
+                            "text": "However, the relative merits of higher-specification constant low-pressure and alternating-pressure support surfaces for preventing pressure ulcers are unclear [3].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent6",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 990,
+                            "end": 1083,
+                            "score": 0.5,
+                            "text": "The effectiveness can vary depending on individual patient characteristics and other factors.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_bingchat_prompt0_answer_sent7",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 1084,
+                            "end": 1184,
+                            "score": 0.5,
+                            "text": "Therefore, it's always recommended to consult with healthcare professionals for personalized advice.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.1143",
+            "question": "How do different support surfaces compare in terms of pressure ulcer prevention?",
+            "gold_answer": "Randomized controlled trial evidence suggests that specialist supports, overlays, mattresses and cushions may be beneficial in terms of pressure ulcer prevention compared with standard foam mattresses. The analyses comparing specialist supports with each other were often based on small numbers of participants from studies with unclear or poor methodology so conclusions could not be drawn. Compared with standard foam supports, overlays and mattresses, constant low\u2010pressure (CLP), alternating pressure (AP), or specialist supports, overlays and mattresses generally reduce the incidence of pressure ulcers in older adults in acute care settings, on general, orthopedic or rehabilitation wards, or in specialist units. Low air loss mattresses/beds also seemed to reduce the incidence of pressure sores compared with standard static mattress or intensive care unit (ICU) beds in adults in acute or long\u2010term care settings. Jay gel cushions were also beneficial in older adults in extended care facilities/nursing homes compared with standard foam cushions. When CLP and AP supports, overlays and mattresses were compared with each other (CLP versus CLP, AP versus AP, CLP versus AP), or when CLP and AP mattresses were compared with standard mattresses in patients during and after a stay in ICU, there were no apparent differences in pressure ulcer incidence between groups. A large number of the analyses comparing different non\u2010standard overlays and mattresses with each other were underpowered (often single trials with fewer than 100 patients), making it difficult either to detect differences between groups, or to have confidence in the results where differences between groups were detected. In addition, most of the studies at an unclear or high risk of bias in terms of participant selection and blinding of outcome assessors, further limiting confidence in the evidence.",
+            "gold_answer_terms": "TERM (term): Between 37 and 42 weeks of pregnancy.\nACUTE (acute): new, recent, sudden, urgent\nORTHOPEDIC (orthopedic): pertaining to the bones\nRISK (risk): The chance that an activity or hazard will give rise to harm. Risk is generally given in terms of numerical odds (1 in 10) or percentages (10%).",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.1143",
+            "llm_answer": "Based on the search results, the following comparisons can be made between different support surfaces for pressure ulcer prevention:\n- Powered active air surfaces: Powered active air surfaces probably reduce pressure ulcer incidence, but are probably less comfortable than standard hospital surfaces[3].\n- Alternating pressure air surfaces: Alternating pressure air surfaces may be better than foam surfaces for preventing pressure ulcers[4].\n- Virtuoso mattress: The Virtuoso mattress seems to be more effective compared with standard foam mattresses in the prevention of pressure ulcers[2].\n- Pressure-relieving support surfaces: Pressure-relieving support surfaces (e.g. beds, mattresses, overlays, and cushions) are used to help prevent ulcer development[5].\n- Comparing the effects of 3 different pressure ulcer prevention support surfaces: This exploratory cross-over trial found that the Virtuoso mattress and the alternating pressure air mattress were more effective than the standard hospital mattress in reducing the risk of pressure ulcers[6].\nOverall, the search results suggest that different support surfaces can be effective in preventing pressure ulcers, but the evidence is limited and of low to very low certainty. More research is needed to determine the optimal support surface for pressure ulcer prevention.",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "topic1": "['skin disorders']",
+            "topic2": "[]",
+            "year": 2016,
+            "author": "Burch, Jane; Weller, Carolina D"
+        },
+        "predictions": [
+            {
+                "model_version": "0.1",
+                "score": 0.5,
+                "result": [
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer",
+                        "from_name": "llm_answer_label_1",
+                        "to_name": "llm_answer_eval_1",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Valid"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent0",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 0,
+                            "end": 132,
+                            "score": 0.5,
+                            "text": "Based on the search results, the following comparisons can be made between different support surfaces for pressure ulcer prevention:",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent1",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 133,
+                            "end": 303,
+                            "score": 0.5,
+                            "text": "- Powered active air surfaces: Powered active air surfaces probably reduce pressure ulcer incidence, but are probably less comfortable than standard hospital surfaces[3].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent2",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 304,
+                            "end": 442,
+                            "score": 0.5,
+                            "text": "- Alternating pressure air surfaces: Alternating pressure air surfaces may be better than foam surfaces for preventing pressure ulcers[4].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent3",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 443,
+                            "end": 592,
+                            "score": 0.5,
+                            "text": "- Virtuoso mattress: The Virtuoso mattress seems to be more effective compared with standard foam mattresses in the prevention of pressure ulcers[2].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent4",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 593,
+                            "end": 673,
+                            "score": 0.5,
+                            "text": "- Pressure-relieving support surfaces: Pressure-relieving support surfaces (e.g.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent5",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 674,
+                            "end": 762,
+                            "score": 0.5,
+                            "text": "beds, mattresses, overlays, and cushions) are used to help prevent ulcer development[5].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent6",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 763,
+                            "end": 1054,
+                            "score": 0.5,
+                            "text": "- Comparing the effects of 3 different pressure ulcer prevention support surfaces: This exploratory cross-over trial found that the Virtuoso mattress and the alternating pressure air mattress were more effective than the standard hospital mattress in reducing the risk of pressure ulcers[6].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent7",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 1055,
+                            "end": 1232,
+                            "score": 0.5,
+                            "text": "Overall, the search results suggest that different support surfaces can be effective in preventing pressure ulcers, but the evidence is limited and of low to very low certainty.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1143_PerplexityAI_prompt0_answer_sent8",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 1233,
+                            "end": 1328,
+                            "score": 0.5,
+                            "text": "More research is needed to determine the optimal support surface for pressure ulcer prevention.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.1440",
+            "question": "What are the long\u2010term (\u226512 months) benefits and harms of preformed crowns for decayed primary molar teeth?",
+            "gold_answer": "Moderate\u2010quality evidence indicates that preformed metal crowns, compared to conventional fillings, are less likely to develop major failure (on average, 20 versus 112 per 1000 children), pain (12 versus 83 per 1000 children), and discomfort associated with the procedure (134 versus 239 per 1000 children), when used for managing dental caries in primary molars of children over a 12 to 48\u2010month period. Low\u2010quality evidence suggested similar rates for the groups in terms of gingival bleeding over 12 months. No studies reported on satisfaction with treatment (parent\u2010, child\u2010 or dentist\u2010rated), or time to failure/need for re\u2010treatment. When crowns were compared with non\u2010restorative caries treatments, there were no clear differences between groups in regards to major failure, discomfort associated with the procedure or gingival bleeding, but the evidence was very low quality and numbers of children small. No study reported on pain, satisfaction with treatment or time to failure/retreatment.",
+            "gold_answer_terms": "PERIOD (period): A bleed from the vagina between every 3 to 5 weeks which forms part of the menstrual cycle (see menstrual cycle).\nTERM (term): Between 37 and 42 weeks of pregnancy.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.1440",
+            "llm_answer": "The long-term benefits of preformed crowns for decayed primary molar teeth include durable restoration and preservation of function. However, potential harms may include the need for retreatment or replacement and potential damage to adjacent teeth. Consultation with a dentist is crucial for personalized assessment and decision-making.",
+            "llm_model_name": "ChatGPT_prompt0_answer",
+            "topic1": "['child health']",
+            "topic2": "[]",
+            "year": 2016,
+            "author": "Dorri, Mojtaba"
+        },
+        "predictions": [
+            {
+                "model_version": "0.1",
+                "score": 0.5,
+                "result": [
+                    {
+                        "id": "10-1002_cca-1440_ChatGPT_prompt0_answer",
+                        "from_name": "llm_answer_label_1",
+                        "to_name": "llm_answer_eval_1",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Valid"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_ChatGPT_prompt0_answer_sent0",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 0,
+                            "end": 132,
+                            "score": 0.5,
+                            "text": "The long-term benefits of preformed crowns for decayed primary molar teeth include durable restoration and preservation of function.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_ChatGPT_prompt0_answer_sent1",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 133,
+                            "end": 249,
+                            "score": 0.5,
+                            "text": "However, potential harms may include the need for retreatment or replacement and potential damage to adjacent teeth.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_ChatGPT_prompt0_answer_sent2",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 250,
+                            "end": 337,
+                            "score": 0.5,
+                            "text": "Consultation with a dentist is crucial for personalized assessment and decision-making.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.1440",
+            "question": "What are the long\u2010term (\u226512 months) benefits and harms of preformed crowns for decayed primary molar teeth?",
+            "gold_answer": "Moderate\u2010quality evidence indicates that preformed metal crowns, compared to conventional fillings, are less likely to develop major failure (on average, 20 versus 112 per 1000 children), pain (12 versus 83 per 1000 children), and discomfort associated with the procedure (134 versus 239 per 1000 children), when used for managing dental caries in primary molars of children over a 12 to 48\u2010month period. Low\u2010quality evidence suggested similar rates for the groups in terms of gingival bleeding over 12 months. No studies reported on satisfaction with treatment (parent\u2010, child\u2010 or dentist\u2010rated), or time to failure/need for re\u2010treatment. When crowns were compared with non\u2010restorative caries treatments, there were no clear differences between groups in regards to major failure, discomfort associated with the procedure or gingival bleeding, but the evidence was very low quality and numbers of children small. No study reported on pain, satisfaction with treatment or time to failure/retreatment.",
+            "gold_answer_terms": "PERIOD (period): A bleed from the vagina between every 3 to 5 weeks which forms part of the menstrual cycle (see menstrual cycle).\nTERM (term): Between 37 and 42 weeks of pregnancy.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.1440",
+            "llm_answer": "The long-term benefits and harms of preformed crowns for decayed primary molar teeth are as follows:\nBenefits:\nReduced Risk of Major Failure or Pain: Crowns placed on primary molar teeth with decay, or that have had pulp treatment, are likely to reduce the risk of major failure or pain in the long term compared to fillings [1][2].\nReduced Discomfort at Time of Treatment: Crowns fitted using the Hall Technique may reduce discomfort at the time of treatment compared to fillings [1][2].\nHarms:\nThe amount and quality of evidence for crowns compared to non-restorative caries, and for metal compared with aesthetic crowns, is very low [1].\nThere are no randomized controlled trials comparing crowns fitted conventionally versus using the Hall Technique [1].\nPlease note that these findings are based on studies and the effectiveness can vary depending on individual patient characteristics. It\u2019s important to consult with healthcare professionals for personalized advice.",
+            "llm_model_name": "bingchat_prompt0_answer",
+            "topic1": "['child health']",
+            "topic2": "[]",
+            "year": 2016,
+            "author": "Dorri, Mojtaba"
+        },
+        "predictions": [
+            {
+                "model_version": "0.1",
+                "score": 0.5,
+                "result": [
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer",
+                        "from_name": "llm_answer_label_1",
+                        "to_name": "llm_answer_eval_1",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Valid"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer_sent0",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 0,
+                            "end": 100,
+                            "score": 0.5,
+                            "text": "The long-term benefits and harms of preformed crowns for decayed primary molar teeth are as follows:",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer_sent1",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 111,
+                            "end": 332,
+                            "score": 0.5,
+                            "text": "Reduced Risk of Major Failure or Pain: Crowns placed on primary molar teeth with decay, or that have had pulp treatment, are likely to reduce the risk of major failure or pain in the long term compared to fillings [1][2].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer_sent2",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 333,
+                            "end": 488,
+                            "score": 0.5,
+                            "text": "Reduced Discomfort at Time of Treatment: Crowns fitted using the Hall Technique may reduce discomfort at the time of treatment compared to fillings [1][2].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer_sent3",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 496,
+                            "end": 640,
+                            "score": 0.5,
+                            "text": "The amount and quality of evidence for crowns compared to non-restorative caries, and for metal compared with aesthetic crowns, is very low [1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer_sent4",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 641,
+                            "end": 758,
+                            "score": 0.5,
+                            "text": "There are no randomized controlled trials comparing crowns fitted conventionally versus using the Hall Technique [1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer_sent5",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 759,
+                            "end": 891,
+                            "score": 0.5,
+                            "text": "Please note that these findings are based on studies and the effectiveness can vary depending on individual patient characteristics.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_bingchat_prompt0_answer_sent6",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 892,
+                            "end": 972,
+                            "score": 0.5,
+                            "text": "It\u2019s important to consult with healthcare professionals for personalized advice.",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "doi": "10.1002/cca.1440",
+            "question": "What are the long\u2010term (\u226512 months) benefits and harms of preformed crowns for decayed primary molar teeth?",
+            "gold_answer": "Moderate\u2010quality evidence indicates that preformed metal crowns, compared to conventional fillings, are less likely to develop major failure (on average, 20 versus 112 per 1000 children), pain (12 versus 83 per 1000 children), and discomfort associated with the procedure (134 versus 239 per 1000 children), when used for managing dental caries in primary molars of children over a 12 to 48\u2010month period. Low\u2010quality evidence suggested similar rates for the groups in terms of gingival bleeding over 12 months. No studies reported on satisfaction with treatment (parent\u2010, child\u2010 or dentist\u2010rated), or time to failure/need for re\u2010treatment. When crowns were compared with non\u2010restorative caries treatments, there were no clear differences between groups in regards to major failure, discomfort associated with the procedure or gingival bleeding, but the evidence was very low quality and numbers of children small. No study reported on pain, satisfaction with treatment or time to failure/retreatment.",
+            "gold_answer_terms": "PERIOD (period): A bleed from the vagina between every 3 to 5 weeks which forms part of the menstrual cycle (see menstrual cycle).\nTERM (term): Between 37 and 42 weeks of pregnancy.",
+            "url": "https://www.cochranelibrary.com/cca/doi/10.1002/cca.1440",
+            "llm_answer": "Benefits:\n- Preformed crowns can reduce the risk of major failure or pain in primary molar teeth with carious lesions or following pulp treatment[3].\n- Preformed crowns can provide a more durable restoration than a filling[1].\n- Stainless steel crowns, which are the most commonly used preformed crowns, can prolong the life of a tooth when re-treatment would require sedation or general anesthesia, with its attendant risks and expense[4][6].\n- Stainless steel crowns can withstand biting forces and rarely need replacement[4].\n- Stainless steel crowns protect all of the remaining tooth, preventing bacteria from easily penetrating into the tooth and attacking other tooth surfaces[4].\nHarms:\n- Preformed crowns can cause discomfort or pain during placement[1].\n- Preformed crowns can be more expensive than other restorative options[1].\n- Preformed crowns may require sedation or general anesthesia for placement[1].\n- Preformed crowns may require removal of more tooth structure than other restorative options[1].\n- Preformed crowns may cause esthetic concerns due to their metallic appearance[1].\n- Stainless steel crowns may cause gingival inflammation[4].",
+            "llm_model_name": "PerplexityAI_prompt0_answer",
+            "topic1": "['child health']",
+            "topic2": "[]",
+            "year": 2016,
+            "author": "Dorri, Mojtaba"
+        },
+        "predictions": [
+            {
+                "model_version": "0.1",
+                "score": 0.5,
+                "result": [
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer",
+                        "from_name": "llm_answer_label_1",
+                        "to_name": "llm_answer_eval_1",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Valid"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent0",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 10,
+                            "end": 149,
+                            "score": 0.5,
+                            "text": "- Preformed crowns can reduce the risk of major failure or pain in primary molar teeth with carious lesions or following pulp treatment[3].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent1",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 150,
+                            "end": 226,
+                            "score": 0.5,
+                            "text": "- Preformed crowns can provide a more durable restoration than a filling[1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent2",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 227,
+                            "end": 443,
+                            "score": 0.5,
+                            "text": "- Stainless steel crowns, which are the most commonly used preformed crowns, can prolong the life of a tooth when re-treatment would require sedation or general anesthesia, with its attendant risks and expense[4][6].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent3",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 444,
+                            "end": 528,
+                            "score": 0.5,
+                            "text": "- Stainless steel crowns can withstand biting forces and rarely need replacement[4].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent4",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 529,
+                            "end": 687,
+                            "score": 0.5,
+                            "text": "- Stainless steel crowns protect all of the remaining tooth, preventing bacteria from easily penetrating into the tooth and attacking other tooth surfaces[4].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent5",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 695,
+                            "end": 763,
+                            "score": 0.5,
+                            "text": "- Preformed crowns can cause discomfort or pain during placement[1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent6",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 764,
+                            "end": 839,
+                            "score": 0.5,
+                            "text": "- Preformed crowns can be more expensive than other restorative options[1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent7",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 840,
+                            "end": 919,
+                            "score": 0.5,
+                            "text": "- Preformed crowns may require sedation or general anesthesia for placement[1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent8",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 920,
+                            "end": 1017,
+                            "score": 0.5,
+                            "text": "- Preformed crowns may require removal of more tooth structure than other restorative options[1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent9",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 1018,
+                            "end": 1101,
+                            "score": 0.5,
+                            "text": "- Preformed crowns may cause esthetic concerns due to their metallic appearance[1].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "10-1002_cca-1440_PerplexityAI_prompt0_answer_sent10",
+                        "from_name": "llm_answer_fine_grain_label",
+                        "to_name": "llm_answer_eval_2",
+                        "type": "labels",
+                        "value": {
+                            "start": 1102,
+                            "end": 1162,
+                            "score": 0.5,
+                            "text": "- Stainless steel crowns may cause gingival inflammation[4].",
+                            "labels": [
+                                "Cannot assess"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

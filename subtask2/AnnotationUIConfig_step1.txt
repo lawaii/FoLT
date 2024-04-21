@@ -1,0 +1,25 @@
+<View>
+  <header value="Question"/>
+  <Text name="question" value="$question"/>
+ 
+
+
+<!--  <header value="Gold Answer"/> -->
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+  <HyperText clickableLinks="true" name="doi" inline="true" target="_blank" value="">
+      <h2><a target="_blank" href="https://www.cochranelibrary.com/cca/doi/$doi">Gold Answer from CCAs</a></h2>
+  </HyperText>
+  <Text name="refAnswer" value="$gold_answer"/>
+  </View>
+  
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+  <header value="Output from LLM"/>
+  <header size="5" value = "Using the following prompt to get the answer from the corresponding LLM" />
+  <Text name="llm_model_prompt" value="$llm_model_prompt"/>
+  <header size="5" name="llm_model_name" value = "$llm_model_name" />
+  <TextArea name="llm_answer" toName="llm_model_prompt" transcription="false" showSubmitButton="false" maxSubmissions="1" editable="true" required="true" rows="5" />
+  <header size="5" value = "$llm_model_name reference (if provided)"/>
+   <TextArea name="llm_answer_ref" toName="llm_model_prompt" transcription="false" showSubmitButton="false" maxSubmissions="1" editable="true" required="false" rows="3"/>
+  </View>
+  
+  </View>
